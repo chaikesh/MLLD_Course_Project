@@ -1,0 +1,1661 @@
+
+ASP 
+
+worker 1 node 1
+
+
+
+================================================================================
+START TRAINING (default_model)
+================================================================================
+WARNING:tensorflow:From /home/karanm/project/cvt/corpus_processing/unlabeled_data.py:75: __init__ (from tensorflow.python.platform.gfile) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.gfile.GFile.
+step 50 - supervised loss: 3.51 - unsupervised loss: 18.69 - 8.7 sentences per second
+time taken 176.01
+step 75 - supervised loss: 2.82 - unsupervised loss: 16.75 - 8.9 sentences per second
+time taken 247.14
+step 125 - supervised loss: 2.69 - unsupervised loss: 15.01 - 9.2 sentences per second
+time taken 401.49
+step 150 - supervised loss: 2.62 - unsupervised loss: 14.07 - 9.1 sentences per second
+time taken 478.18
+step 175 - supervised loss: 2.56 - unsupervised loss: 14.29 - 9.7 sentences per second
+time taken 549.34
+step 200 - supervised loss: 2.51 - unsupervised loss: 14.33 - 9.9 sentences per second
+time taken 616.92
+step 225 - supervised loss: 2.42 - unsupervised loss: 14.05 - 10.0 sentences per second
+time taken 683.89
+step 350 - supervised loss: 2.17 - unsupervised loss: 13.25 - 9.8 sentences per second
+time taken 1057.46
+step 400 - supervised loss: 1.95 - unsupervised loss: 12.55 - 10.0 sentences per second
+time taken 1192.78
+step 450 - supervised loss: 1.90 - unsupervised loss: 12.19 - 10.3 sentences per second
+time taken 1326.84
+step 475 - supervised loss: 1.80 - unsupervised loss: 11.37 - 10.4 sentences per second
+time taken 1400.49
+step 500 - supervised loss: 1.74 - unsupervised loss: 11.63 - 10.4 sentences per second
+time taken 1470.76
+
+================================================================================
+EVAL ON DEV (default_model)
+================================================================================
+CHUNK: precision: 24.06 - recall: 24.02 - f1: 24.04 - loss: 2.27
+New best model! Saving...
+
+step 600 - supervised loss: 1.74 - unsupervised loss: 11.26 - 9.9 sentences per second
+time taken 1819.76
+step 625 - supervised loss: 1.56 - unsupervised loss: 10.54 - 9.9 sentences per second
+time taken 1894.16
+step 650 - supervised loss: 1.60 - unsupervised loss: 10.74 - 10.0 sentences per second
+time taken 1958.24
+step 750 - supervised loss: 1.52 - unsupervised loss: 10.37 - 10.3 sentences per second
+time taken 2228.65
+step 775 - supervised loss: 1.45 - unsupervised loss: 10.02 - 10.4 sentences per second
+time taken 2299.25
+step 800 - supervised loss: 1.46 - unsupervised loss: 10.27 - 10.3 sentences per second
+time taken 2377.75
+step 875 - supervised loss: 1.43 - unsupervised loss: 9.89 - 10.3 sentences per second
+time taken 2592.68
+step 900 - supervised loss: 1.43 - unsupervised loss: 10.31 - 10.3 sentences per second
+time taken 2663.72
+step 975 - supervised loss: 1.37 - unsupervised loss: 9.68 - 10.3 sentences per second
+time taken 2889.76
+step 1000 - supervised loss: 1.28 - unsupervised loss: 9.42 - 10.3 sentences per second
+time taken 2965.28
+
+================================================================================
+EVAL ON DEV (default_model)
+================================================================================
+CHUNK: precision: 65.34 - recall: 61.13 - f1: 63.17 - loss: 1.37
+New best model! Saving...
+
+
+================================================================================
+CHECKPOINTING MODEL (default_model)
+================================================================================
+
+step 1050 - supervised loss: 1.33 - unsupervised loss: 10.09 - 9.8 sentences per second
+time taken 3174.99
+step 1075 - supervised loss: 1.27 - unsupervised loss: 9.03 - 9.8 sentences per second
+time taken 3245.25
+step 1125 - supervised loss: 1.29 - unsupervised loss: 9.24 - 9.9 sentences per second
+time taken 3381.83
+step 1175 - supervised loss: 1.31 - unsupervised loss: 8.90 - 9.9 sentences per second
+time taken 3526.85
+step 1225 - supervised loss: 1.29 - unsupervised loss: 9.02 - 9.9 sentences per second
+time taken 3678.08
+step 1250 - supervised loss: 1.24 - unsupervised loss: 8.56 - 9.9 sentences per second
+time taken 3750.60
+step 1275 - supervised loss: 1.25 - unsupervised loss: 8.48 - 9.9 sentences per second
+time taken 3823.14
+step 1325 - supervised loss: 1.31 - unsupervised loss: 9.29 - 10.0 sentences per second
+time taken 3962.62
+step 1375 - supervised loss: 1.24 - unsupervised loss: 8.70 - 10.0 sentences per second
+time taken 4115.64
+step 1525 - supervised loss: 1.26 - unsupervised loss: 8.90 - 10.0 sentences per second
+time taken 4591.83
+step 1550 - supervised loss: 1.27 - unsupervised loss: 8.62 - 10.1 sentences per second
+time taken 4660.84
+step 1575 - supervised loss: 1.24 - unsupervised loss: 9.55 - 10.1 sentences per second
+time taken 4730.82
+step 1600 - supervised loss: 1.24 - unsupervised loss: 9.06 - 10.1 sentences per second
+time taken 4797.18
+step 1675 - supervised loss: 1.24 - unsupervised loss: 8.82 - 10.1 sentences per second
+time taken 5015.79
+step 1700 - supervised loss: 1.23 - unsupervised loss: 9.30 - 10.1 sentences per second
+time taken 5084.76
+step 1750 - supervised loss: 1.23 - unsupervised loss: 8.94 - 10.2 sentences per second
+time taken 5224.85
+step 1775 - supervised loss: 1.17 - unsupervised loss: 8.77 - 10.3 sentences per second
+time taken 5286.15
+step 1850 - supervised loss: 1.26 - unsupervised loss: 9.20 - 10.3 sentences per second
+time taken 5494.13
+step 1900 - supervised loss: 1.24 - unsupervised loss: 8.60 - 10.3 sentences per second
+time taken 5633.90
+step 1950 - supervised loss: 1.24 - unsupervised loss: 9.40 - 10.4 sentences per second
+time taken 5767.01
+step 2025 - supervised loss: 1.20 - unsupervised loss: 8.76 - 10.4 sentences per second
+time taken 6045.98
+step 2050 - supervised loss: 1.21 - unsupervised loss: 9.11 - 10.5 sentences per second
+time taken 6178.37
+step 2100 - supervised loss: 1.19 - unsupervised loss: 8.88 - 10.5 sentences per second
+time taken 6386.01
+step 2200 - supervised loss: 1.18 - unsupervised loss: 8.66 - 10.5 sentences per second
+time taken 6659.18
+step 2275 - supervised loss: 1.23 - unsupervised loss: 9.36 - 10.5 sentences per second
+time taken 6871.51
+step 2350 - supervised loss: 1.16 - unsupervised loss: 9.14 - 10.6 sentences per second
+time taken 7088.04
+step 2425 - supervised loss: 1.16 - unsupervised loss: 8.61 - 10.6 sentences per second
+time taken 7296.16
+step 2475 - supervised loss: 1.20 - unsupervised loss: 8.76 - 10.6 sentences per second
+time taken 7441.28
+step 2600 - supervised loss: 1.15 - unsupervised loss: 8.50 - 10.6 sentences per second
+time taken 7836.38
+step 2625 - supervised loss: 1.20 - unsupervised loss: 11.05 - 10.6 sentences per second
+time taken 7905.34
+step 2800 - supervised loss: 1.17 - unsupervised loss: 8.63 - 10.6 sentences per second
+time taken 8402.03
+step 2875 - supervised loss: 1.04 - unsupervised loss: 8.05 - 10.6 sentences per second
+time taken 8626.33
+step 2925 - supervised loss: 1.09 - unsupervised loss: 8.51 - 10.6 sentences per second
+time taken 8762.79
+step 2975 - supervised loss: 1.07 - unsupervised loss: 8.22 - 10.7 sentences per second
+time taken 8900.07
+step 3000 - supervised loss: 1.12 - unsupervised loss: 8.50 - 10.7 sentences per second
+time taken 8977.70
+
+================================================================================
+EVAL ON DEV (default_model)
+================================================================================
+CHUNK: precision: 88.37 - recall: 89.88 - f1: 89.12 - loss: 0.46
+New best model! Saving...
+
+
+================================================================================
+CHECKPOINTING MODEL (default_model)
+================================================================================
+
+step 3075 - supervised loss: 0.97 - unsupervised loss: 7.44 - 10.4 sentences per second
+time taken 9298.57
+step 3125 - supervised loss: 1.05 - unsupervised loss: 7.72 - 10.5 sentences per second
+time taken 9431.51
+step 3150 - supervised loss: 1.06 - unsupervised loss: 8.48 - 10.5 sentences per second
+time taken 9499.43
+step 3200 - supervised loss: 1.01 - unsupervised loss: 7.68 - 10.5 sentences per second
+time taken 9648.93
+step 3250 - supervised loss: 1.02 - unsupervised loss: 8.19 - 10.5 sentences per second
+time taken 9786.59
+step 3350 - supervised loss: 1.00 - unsupervised loss: 7.84 - 10.5 sentences per second
+time taken 10080.14
+step 3375 - supervised loss: 0.97 - unsupervised loss: 7.81 - 10.5 sentences per second
+time taken 10152.61
+step 3400 - supervised loss: 0.99 - unsupervised loss: 7.92 - 10.5 sentences per second
+time taken 10224.58
+step 3425 - supervised loss: 0.98 - unsupervised loss: 7.28 - 10.5 sentences per second
+time taken 10293.66
+step 3550 - supervised loss: 0.98 - unsupervised loss: 7.90 - 10.5 sentences per second
+time taken 10702.08
+step 3625 - supervised loss: 0.97 - unsupervised loss: 7.74 - 10.5 sentences per second
+time taken 10910.52
+step 3675 - supervised loss: 0.97 - unsupervised loss: 7.53 - 10.5 sentences per second
+time taken 11046.16
+step 3700 - supervised loss: 0.96 - unsupervised loss: 7.61 - 10.5 sentences per second
+time taken 11144.60
+step 3775 - supervised loss: 0.96 - unsupervised loss: 7.59 - 10.5 sentences per second
+time taken 11358.19
+step 3800 - supervised loss: 0.96 - unsupervised loss: 7.66 - 10.5 sentences per second
+time taken 11425.66
+step 3825 - supervised loss: 0.99 - unsupervised loss: 8.24 - 10.5 sentences per second
+time taken 11497.77
+step 3875 - supervised loss: 0.97 - unsupervised loss: 7.67 - 10.5 sentences per second
+time taken 11646.50
+step 3900 - supervised loss: 1.03 - unsupervised loss: 7.73 - 10.5 sentences per second
+time taken 11723.27
+step 3950 - supervised loss: 0.97 - unsupervised loss: 7.76 - 10.5 sentences per second
+time taken 11862.01
+step 3975 - supervised loss: 0.95 - unsupervised loss: 7.40 - 10.5 sentences per second
+time taken 11931.65
+step 4000 - supervised loss: 0.93 - unsupervised loss: 7.66 - 10.5 sentences per second
+time taken 12010.64
+
+================================================================================
+EVAL ON DEV (default_model)
+================================================================================
+CHUNK: precision: 91.75 - recall: 92.46 - f1: 92.10 - loss: 0.29
+New best model! Saving...
+
+
+================================================================================
+EVAL ON TRAIN (default_model)
+================================================================================
+CHUNK: precision: 91.83 - recall: 92.67 - f1: 92.25 - loss: 0.29
+
+
+================================================================================
+CHECKPOINTING MODEL (default_model)
+================================================================================
+
+step 4075 - supervised loss: 0.87 - unsupervised loss: 7.04 - 10.2 sentences per second
+time taken 12408.22
+step 4150 - supervised loss: 0.88 - unsupervised loss: 6.92 - 10.1 sentences per second
+time taken 12646.14
+step 4200 - supervised loss: 0.96 - unsupervised loss: 7.51 - 10.2 sentences per second
+time taken 12782.08
+step 4225 - supervised loss: 0.93 - unsupervised loss: 7.13 - 10.2 sentences per second
+time taken 12856.66
+step 4425 - supervised loss: 0.92 - unsupervised loss: 7.43 - 10.2 sentences per second
+time taken 13416.78
+step 4500 - supervised loss: 0.95 - unsupervised loss: 7.58 - 10.2 sentences per second
+time taken 13626.27
+
+================================================================================
+EVAL ON DEV (default_model)
+================================================================================
+CHUNK: precision: 93.19 - recall: 93.60 - f1: 93.40 - loss: 0.25
+New best model! Saving...
+
+step 4525 - supervised loss: 0.90 - unsupervised loss: 6.60 - 10.2 sentences per second
+time taken 13739.18
+step 4550 - supervised loss: 0.91 - unsupervised loss: 7.77 - 10.2 sentences per second
+time taken 13808.55
+step 4600 - supervised loss: 0.93 - unsupervised loss: 7.23 - 10.2 sentences per second
+time taken 13943.53
+step 4650 - supervised loss: 0.93 - unsupervised loss: 7.41 - 10.2 sentences per second
+time taken 14083.71
+step 4725 - supervised loss: 0.92 - unsupervised loss: 7.29 - 10.2 sentences per second
+time taken 14290.58
+step 4775 - supervised loss: 0.95 - unsupervised loss: 7.55 - 10.2 sentences per second
+time taken 14433.59
+step 4800 - supervised loss: 0.92 - unsupervised loss: 7.30 - 10.2 sentences per second
+time taken 14501.38
+step 4825 - supervised loss: 0.89 - unsupervised loss: 7.42 - 10.2 sentences per second
+time taken 14575.42
+step 4875 - supervised loss: 0.88 - unsupervised loss: 6.98 - 10.2 sentences per second
+time taken 14719.10
+step 4925 - supervised loss: 0.89 - unsupervised loss: 7.31 - 10.2 sentences per second
+time taken 14860.16
+step 4950 - supervised loss: 0.91 - unsupervised loss: 6.82 - 10.2 sentences per second
+time taken 14934.97
+step 4975 - supervised loss: 0.96 - unsupervised loss: 7.87 - 10.2 sentences per second
+time taken 14996.26
+step 5025 - supervised loss: 0.91 - unsupervised loss: 7.22 - 10.3 sentences per second
+time taken 15195.95
+step 5075 - supervised loss: 0.87 - unsupervised loss: 7.03 - 10.3 sentences per second
+time taken 15334.16
+step 5150 - supervised loss: 0.88 - unsupervised loss: 7.02 - 10.3 sentences per second
+time taken 15547.73
+step 5175 - supervised loss: 0.87 - unsupervised loss: 7.62 - 10.3 sentences per second
+time taken 15618.95
+step 5200 - supervised loss: 0.86 - unsupervised loss: 6.70 - 10.3 sentences per second
+time taken 15686.81
+step 5225 - supervised loss: 0.86 - unsupervised loss: 7.48 - 10.3 sentences per second
+time taken 15758.17
+step 5250 - supervised loss: 0.87 - unsupervised loss: 6.79 - 10.3 sentences per second
+time taken 15827.41
+step 5275 - supervised loss: 0.86 - unsupervised loss: 6.87 - 10.3 sentences per second
+time taken 15897.77
+step 5300 - supervised loss: 0.86 - unsupervised loss: 6.96 - 10.3 sentences per second
+time taken 15967.15
+step 5325 - supervised loss: 0.86 - unsupervised loss: 6.94 - 10.3 sentences per second
+time taken 16040.62
+step 5425 - supervised loss: 0.85 - unsupervised loss: 7.10 - 10.3 sentences per second
+time taken 16351.35
+step 5450 - supervised loss: 0.90 - unsupervised loss: 7.10 - 10.3 sentences per second
+time taken 16422.61
+step 5475 - supervised loss: 0.88 - unsupervised loss: 7.23 - 10.3 sentences per second
+time taken 16492.98
+step 5525 - supervised loss: 0.87 - unsupervised loss: 7.02 - 10.3 sentences per second
+time taken 16676.79
+step 5550 - supervised loss: 0.85 - unsupervised loss: 6.81 - 10.3 sentences per second
+time taken 16746.79
+step 5575 - supervised loss: 0.85 - unsupervised loss: 7.07 - 10.3 sentences per second
+time taken 16817.17
+step 5600 - supervised loss: 0.82 - unsupervised loss: 6.58 - 10.3 sentences per second
+time taken 16883.84
+step 5625 - supervised loss: 0.84 - unsupervised loss: 7.26 - 10.3 sentences per second
+time taken 16954.23
+step 5750 - supervised loss: 0.85 - unsupervised loss: 6.95 - 10.4 sentences per second
+time taken 17309.76
+step 5775 - supervised loss: 0.82 - unsupervised loss: 6.80 - 10.4 sentences per second
+time taken 17378.14
+step 5800 - supervised loss: 0.82 - unsupervised loss: 6.66 - 10.4 sentences per second
+time taken 17452.30
+step 5825 - supervised loss: 0.82 - unsupervised loss: 6.88 - 10.4 sentences per second
+time taken 17521.14
+step 5850 - supervised loss: 0.84 - unsupervised loss: 6.71 - 10.4 sentences per second
+time taken 17591.08
+step 5875 - supervised loss: 0.82 - unsupervised loss: 6.93 - 10.4 sentences per second
+time taken 17660.46
+step 5900 - supervised loss: 0.83 - unsupervised loss: 6.52 - 10.4 sentences per second
+time taken 17731.82
+step 5950 - supervised loss: 0.83 - unsupervised loss: 6.61 - 10.4 sentences per second
+time taken 17879.59
+step 5975 - supervised loss: 0.86 - unsupervised loss: 7.28 - 10.4 sentences per second
+time taken 17946.81
+step 6025 - supervised loss: 0.83 - unsupervised loss: 6.78 - 10.4 sentences per second
+time taken 18152.04
+step 6050 - supervised loss: 0.81 - unsupervised loss: 6.53 - 10.4 sentences per second
+time taken 18298.47
+step 6125 - supervised loss: 0.80 - unsupervised loss: 6.60 - 10.4 sentences per second
+time taken 18580.97
+step 6150 - supervised loss: 0.79 - unsupervised loss: 6.61 - 10.4 sentences per second
+time taken 18648.69
+step 6200 - supervised loss: 0.81 - unsupervised loss: 6.60 - 10.4 sentences per second
+time taken 18788.72
+step 6275 - supervised loss: 0.82 - unsupervised loss: 6.65 - 10.4 sentences per second
+time taken 19009.31
+step 6350 - supervised loss: 0.82 - unsupervised loss: 6.77 - 10.4 sentences per second
+time taken 19229.12
+step 6375 - supervised loss: 0.81 - unsupervised loss: 6.49 - 10.4 sentences per second
+time taken 19296.41
+step 6400 - supervised loss: 0.80 - unsupervised loss: 7.05 - 10.4 sentences per second
+time taken 19364.73
+step 6500 - supervised loss: 0.81 - unsupervised loss: 6.66 - 10.4 sentences per second
+time taken 19663.32
+
+================================================================================
+EVAL ON DEV (default_model)
+================================================================================
+CHUNK: precision: 96.10 - recall: 96.13 - f1: 96.11 - loss: 0.19
+New best model! Saving...
+
+step 6600 - supervised loss: 0.79 - unsupervised loss: 6.50 - 10.4 sentences per second
+time taken 19984.84
+step 6650 - supervised loss: 0.81 - unsupervised loss: 6.57 - 10.4 sentences per second
+time taken 20122.87
+step 6675 - supervised loss: 0.79 - unsupervised loss: 6.72 - 10.4 sentences per second
+time taken 20185.42
+step 6800 - supervised loss: 0.81 - unsupervised loss: 6.66 - 10.4 sentences per second
+time taken 20532.29
+step 6875 - supervised loss: 0.79 - unsupervised loss: 6.53 - 10.4 sentences per second
+time taken 20746.71
+step 6900 - supervised loss: 0.80 - unsupervised loss: 6.78 - 10.4 sentences per second
+time taken 20821.46
+step 6925 - supervised loss: 0.81 - unsupervised loss: 6.58 - 10.4 sentences per second
+time taken 20887.96
+step 6950 - supervised loss: 0.80 - unsupervised loss: 6.57 - 10.4 sentences per second
+time taken 20956.24
+step 6975 - supervised loss: 0.79 - unsupervised loss: 6.76 - 10.4 sentences per second
+time taken 21022.23
+step 7000 - supervised loss: 0.80 - unsupervised loss: 6.35 - 10.4 sentences per second
+time taken 21097.43
+
+================================================================================
+EVAL ON DEV (default_model)
+================================================================================
+CHUNK: precision: 96.55 - recall: 96.52 - f1: 96.54 - loss: 0.18
+New best model! Saving...
+
+
+================================================================================
+CHECKPOINTING MODEL (default_model)
+================================================================================
+
+step 7050 - supervised loss: 0.78 - unsupervised loss: 6.50 - 10.4 sentences per second
+time taken 21303.05
+step 7075 - supervised loss: 0.79 - unsupervised loss: 6.70 - 10.4 sentences per second
+time taken 21372.49
+step 7100 - supervised loss: 0.78 - unsupervised loss: 6.34 - 10.4 sentences per second
+time taken 21435.93
+step 7125 - supervised loss: 0.78 - unsupervised loss: 6.69 - 10.4 sentences per second
+time taken 21518.53
+step 7150 - supervised loss: 0.77 - unsupervised loss: 6.54 - 10.4 sentences per second
+time taken 21592.01
+step 7225 - supervised loss: 0.79 - unsupervised loss: 6.51 - 10.4 sentences per second
+time taken 21795.13
+step 7250 - supervised loss: 0.79 - unsupervised loss: 6.46 - 10.4 sentences per second
+time taken 21866.41
+step 7275 - supervised loss: 0.79 - unsupervised loss: 6.53 - 10.4 sentences per second
+time taken 21935.89
+step 7300 - supervised loss: 0.80 - unsupervised loss: 6.50 - 10.4 sentences per second
+time taken 22004.99
+step 7325 - supervised loss: 0.79 - unsupervised loss: 6.58 - 10.4 sentences per second
+time taken 22072.67
+step 7350 - supervised loss: 0.80 - unsupervised loss: 6.73 - 10.4 sentences per second
+time taken 22142.46
+step 7425 - supervised loss: 0.79 - unsupervised loss: 6.55 - 10.4 sentences per second
+time taken 22344.76
+step 7600 - supervised loss: 0.78 - unsupervised loss: 6.49 - 10.4 sentences per second
+time taken 22890.93
+step 7625 - supervised loss: 0.79 - unsupervised loss: 6.38 - 10.4 sentences per second
+time taken 22961.58
+step 7650 - supervised loss: 0.78 - unsupervised loss: 6.58 - 10.4 sentences per second
+time taken 23032.57
+step 7700 - supervised loss: 0.78 - unsupervised loss: 6.52 - 10.4 sentences per second
+time taken 23175.06
+step 7725 - supervised loss: 0.80 - unsupervised loss: 6.49 - 10.4 sentences per second
+time taken 23244.51
+step 7775 - supervised loss: 0.79 - unsupervised loss: 6.54 - 10.4 sentences per second
+time taken 23383.60
+step 7800 - supervised loss: 0.79 - unsupervised loss: 6.49 - 10.4 sentences per second
+time taken 23456.38
+step 7825 - supervised loss: 0.80 - unsupervised loss: 6.51 - 10.4 sentences per second
+time taken 23534.30
+step 7850 - supervised loss: 0.78 - unsupervised loss: 6.53 - 10.4 sentences per second
+time taken 23608.50
+step 7900 - supervised loss: 0.78 - unsupervised loss: 6.42 - 10.4 sentences per second
+time taken 23749.51
+step 7950 - supervised loss: 0.78 - unsupervised loss: 6.48 - 10.4 sentences per second
+time taken 23886.64
+step 8000 - supervised loss: 0.78 - unsupervised loss: 6.47 - 10.5 sentences per second
+time taken 24023.05
+
+================================================================================
+EVAL ON DEV (default_model)
+================================================================================
+CHUNK: precision: 97.17 - recall: 97.20 - f1: 97.18 - loss: 0.16
+New best model! Saving...
+
+
+================================================================================
+EVAL ON TRAIN (default_model)
+================================================================================
+CHUNK: precision: 97.10 - recall: 97.28 - f1: 97.19 - loss: 0.16
+
+
+================================================================================
+CHECKPOINTING MODEL (default_model)
+================================================================================
+
+step 8125 - supervised loss: 0.75 - unsupervised loss: 6.40 - 10.2 sentences per second
+time taken 24693.49
+step 8150 - supervised loss: 0.76 - unsupervised loss: 6.41 - 10.2 sentences per second
+time taken 24761.96
+step 8250 - supervised loss: 0.76 - unsupervised loss: 6.40 - 10.2 sentences per second
+time taken 25037.68
+step 8300 - supervised loss: 0.76 - unsupervised loss: 6.38 - 10.2 sentences per second
+time taken 25184.19
+step 8325 - supervised loss: 0.77 - unsupervised loss: 6.37 - 10.2 sentences per second
+time taken 25249.45
+step 8400 - supervised loss: 0.77 - unsupervised loss: 6.48 - 10.2 sentences per second
+time taken 25456.00
+step 8425 - supervised loss: 0.74 - unsupervised loss: 6.32 - 10.2 sentences per second
+time taken 25527.93
+step 8450 - supervised loss: 0.77 - unsupervised loss: 6.44 - 10.2 sentences per second
+time taken 25603.74
+step 8550 - supervised loss: 0.77 - unsupervised loss: 6.43 - 10.2 sentences per second
+time taken 25920.43
+step 8600 - supervised loss: 0.77 - unsupervised loss: 6.56 - 10.3 sentences per second
+time taken 26063.17
+step 8625 - supervised loss: 0.79 - unsupervised loss: 6.46 - 10.3 sentences per second
+time taken 26134.85
+step 8700 - supervised loss: 0.78 - unsupervised loss: 6.52 - 10.3 sentences per second
+time taken 26343.09
+step 8875 - supervised loss: 0.77 - unsupervised loss: 6.44 - 10.3 sentences per second
+time taken 26833.83
+step 8900 - supervised loss: 0.76 - unsupervised loss: 6.59 - 10.3 sentences per second
+time taken 26918.87
+step 8925 - supervised loss: 0.76 - unsupervised loss: 6.54 - 10.3 sentences per second
+time taken 26981.94
+step 9000 - supervised loss: 0.77 - unsupervised loss: 6.53 - 10.3 sentences per second
+time taken 27189.49
+
+================================================================================
+EVAL ON DEV (default_model)
+================================================================================
+CHUNK: precision: 97.77 - recall: 97.85 - f1: 97.81 - loss: 0.15
+New best model! Saving...
+
+
+================================================================================
+CHECKPOINTING MODEL (default_model)
+================================================================================
+
+step 9075 - supervised loss: 0.75 - unsupervised loss: 6.30 - 10.2 sentences per second
+time taken 27519.32
+step 9125 - supervised loss: 0.76 - unsupervised loss: 6.42 - 10.2 sentences per second
+time taken 27660.97
+step 9175 - supervised loss: 0.77 - unsupervised loss: 6.38 - 10.2 sentences per second
+time taken 27797.06
+step 9200 - supervised loss: 0.77 - unsupervised loss: 6.34 - 10.2 sentences per second
+time taken 27881.53
+step 9225 - supervised loss: 0.76 - unsupervised loss: 6.34 - 10.2 sentences per second
+time taken 27960.28
+step 9275 - supervised loss: 0.75 - unsupervised loss: 6.40 - 10.2 sentences per second
+time taken 28104.68
+step 9300 - supervised loss: 0.76 - unsupervised loss: 6.25 - 10.2 sentences per second
+time taken 28174.93
+step 9325 - supervised loss: 0.75 - unsupervised loss: 6.43 - 10.2 sentences per second
+time taken 28243.62
+step 9375 - supervised loss: 0.76 - unsupervised loss: 6.37 - 10.2 sentences per second
+time taken 28388.61
+step 9425 - supervised loss: 0.75 - unsupervised loss: 6.31 - 10.2 sentences per second
+time taken 28531.48
+step 9450 - supervised loss: 0.76 - unsupervised loss: 6.42 - 10.2 sentences per second
+time taken 28602.94
+step 9475 - supervised loss: 0.75 - unsupervised loss: 6.33 - 10.2 sentences per second
+time taken 28669.72
+step 9500 - supervised loss: 0.77 - unsupervised loss: 6.44 - 10.2 sentences per second
+time taken 28742.41
+
+================================================================================
+EVAL ON DEV (default_model)
+================================================================================
+CHUNK: precision: 97.93 - recall: 98.00 - f1: 97.97 - loss: 0.14
+New best model! Saving...
+
+step 9525 - supervised loss: 0.77 - unsupervised loss: 6.78 - 10.2 sentences per second
+time taken 28847.15
+step 9575 - supervised loss: 0.75 - unsupervised loss: 6.37 - 10.2 sentences per second
+time taken 28984.31
+step 9600 - supervised loss: 0.75 - unsupervised loss: 6.30 - 10.2 sentences per second
+time taken 29056.92
+step 9625 - supervised loss: 0.76 - unsupervised loss: 6.25 - 10.2 sentences per second
+time taken 29126.38
+step 9650 - supervised loss: 0.75 - unsupervised loss: 6.46 - 10.2 sentences per second
+time taken 29201.08
+step 9700 - supervised loss: 0.76 - unsupervised loss: 6.40 - 10.2 sentences per second
+time taken 29341.02
+step 9725 - supervised loss: 0.77 - unsupervised loss: 6.38 - 10.2 sentences per second
+time taken 29417.47
+step 9750 - supervised loss: 0.76 - unsupervised loss: 6.28 - 10.2 sentences per second
+time taken 29484.39
+step 9775 - supervised loss: 0.77 - unsupervised loss: 6.73 - 10.2 sentences per second
+time taken 29559.11
+step 9825 - supervised loss: 0.76 - unsupervised loss: 6.48 - 10.2 sentences per second
+time taken 29693.52
+step 9875 - supervised loss: 0.77 - unsupervised loss: 6.34 - 10.2 sentences per second
+time taken 29838.30
+step 9925 - supervised loss: 0.76 - unsupervised loss: 6.32 - 10.2 sentences per second
+time taken 29977.10
+step 9975 - supervised loss: 0.76 - unsupervised loss: 6.38 - 10.2 sentences per second
+time taken 30123.39
+step 10000 - supervised loss: 0.75 - unsupervised loss: 6.40 - 10.3 sentences per second
+time taken 30191.05
+
+================================================================================
+EVAL ON DEV (default_model)
+================================================================================
+CHUNK: precision: 98.07 - recall: 98.16 - f1: 98.11 - loss: 0.14
+New best model! Saving...
+
+
+================================================================================
+EVAL ON TRAIN (default_model)
+================================================================================
+CHUNK: precision: 97.97 - recall: 98.11 - f1: 98.04 - loss: 0.14
+
+
+================================================================================
+CHECKPOINTING MODEL (default_model)
+================================================================================
+
+step 10075 - supervised loss: 0.73 - unsupervised loss: 6.28 - 10.1 sentences per second
+time taken 30596.21
+step 10100 - supervised loss: 0.74 - unsupervised loss: 6.19 - 10.1 sentences per second
+time taken 30669.83
+step 10150 - supervised loss: 0.74 - unsupervised loss: 6.33 - 10.1 sentences per second
+time taken 30811.21
+step 10175 - supervised loss: 0.75 - unsupervised loss: 6.28 - 10.1 sentences per second
+time taken 30878.24
+step 10225 - supervised loss: 0.75 - unsupervised loss: 6.36 - 10.1 sentences per second
+time taken 31013.93
+step 10325 - supervised loss: 0.75 - unsupervised loss: 6.27 - 10.1 sentences per second
+time taken 31308.42
+step 10375 - supervised loss: 0.75 - unsupervised loss: 6.40 - 10.2 sentences per second
+time taken 31445.76
+step 10400 - supervised loss: 0.76 - unsupervised loss: 6.38 - 10.2 sentences per second
+time taken 31514.15
+step 10625 - supervised loss: 0.74 - unsupervised loss: 6.28 - 10.2 sentences per second
+time taken 32191.44
+step 10650 - supervised loss: 0.75 - unsupervised loss: 6.42 - 10.2 sentences per second
+time taken 32261.49
+step 10700 - supervised loss: 0.75 - unsupervised loss: 6.23 - 10.2 sentences per second
+time taken 32406.91
+step 10725 - supervised loss: 0.74 - unsupervised loss: 6.54 - 10.2 sentences per second
+time taken 32479.98
+step 10750 - supervised loss: 0.75 - unsupervised loss: 6.23 - 10.2 sentences per second
+time taken 32554.39
+step 10800 - supervised loss: 0.75 - unsupervised loss: 6.37 - 10.2 sentences per second
+time taken 32692.93
+step 10950 - supervised loss: 0.75 - unsupervised loss: 6.38 - 10.2 sentences per second
+time taken 33110.64
+step 10975 - supervised loss: 0.75 - unsupervised loss: 6.42 - 10.2 sentences per second
+time taken 33180.55
+step 11025 - supervised loss: 0.75 - unsupervised loss: 6.36 - 10.2 sentences per second
+time taken 33378.71
+step 11075 - supervised loss: 0.73 - unsupervised loss: 6.35 - 10.2 sentences per second
+time taken 33511.28
+step 11200 - supervised loss: 0.75 - unsupervised loss: 6.31 - 10.2 sentences per second
+time taken 33870.66
+step 11225 - supervised loss: 0.75 - unsupervised loss: 6.43 - 10.2 sentences per second
+time taken 33943.38
+step 11275 - supervised loss: 0.75 - unsupervised loss: 6.33 - 10.2 sentences per second
+time taken 34088.59
+step 11425 - supervised loss: 0.74 - unsupervised loss: 6.31 - 10.3 sentences per second
+time taken 34502.76
+step 11450 - supervised loss: 0.75 - unsupervised loss: 6.16 - 10.3 sentences per second
+time taken 34574.88
+step 11475 - supervised loss: 0.76 - unsupervised loss: 6.53 - 10.3 sentences per second
+time taken 34636.68
+step 11625 - supervised loss: 0.74 - unsupervised loss: 6.31 - 10.3 sentences per second
+time taken 35094.33
+step 11650 - supervised loss: 0.74 - unsupervised loss: 6.24 - 10.3 sentences per second
+time taken 35173.11
+step 11675 - supervised loss: 0.74 - unsupervised loss: 6.41 - 10.3 sentences per second
+time taken 35239.75
+step 11725 - supervised loss: 0.74 - unsupervised loss: 6.28 - 10.3 sentences per second
+time taken 35373.78
+step 11800 - supervised loss: 0.74 - unsupervised loss: 6.26 - 10.3 sentences per second
+time taken 35585.94
+step 11825 - supervised loss: 0.74 - unsupervised loss: 6.33 - 10.3 sentences per second
+time taken 35658.40
+step 11950 - supervised loss: 0.74 - unsupervised loss: 6.28 - 10.3 sentences per second
+time taken 35998.50
+step 11975 - supervised loss: 0.74 - unsupervised loss: 6.20 - 10.3 sentences per second
+time taken 36065.35
+step 12000 - supervised loss: 0.75 - unsupervised loss: 6.29 - 10.3 sentences per second
+time taken 36134.41
+
+================================================================================
+EVAL ON DEV (default_model)
+================================================================================
+CHUNK: precision: 98.59 - recall: 98.61 - f1: 98.60 - loss: 0.13
+New best model! Saving...
+
+
+================================================================================
+EVAL ON TRAIN (default_model)
+================================================================================
+CHUNK: precision: 98.58 - recall: 98.66 - f1: 98.62 - loss: 0.13
+
+
+================================================================================
+CHECKPOINTING MODEL (default_model)
+================================================================================
+
+step 12100 - supervised loss: 0.74 - unsupervised loss: 6.21 - 10.2 sentences per second
+time taken 36612.73
+step 12125 - supervised loss: 0.75 - unsupervised loss: 6.33 - 10.2 sentences per second
+time taken 36680.24
+step 12150 - supervised loss: 0.73 - unsupervised loss: 6.22 - 10.2 sentences per second
+time taken 36749.58
+step 12175 - supervised loss: 0.73 - unsupervised loss: 6.22 - 10.2 sentences per second
+time taken 36817.69
+step 12200 - supervised loss: 0.73 - unsupervised loss: 6.34 - 10.2 sentences per second
+time taken 36891.22
+step 12250 - supervised loss: 0.73 - unsupervised loss: 6.28 - 10.2 sentences per second
+time taken 37031.14
+step 12275 - supervised loss: 0.72 - unsupervised loss: 6.14 - 10.2 sentences per second
+time taken 37102.47
+step 12300 - supervised loss: 0.74 - unsupervised loss: 6.33 - 10.2 sentences per second
+time taken 37171.75
+step 12325 - supervised loss: 0.74 - unsupervised loss: 6.31 - 10.2 sentences per second
+time taken 37243.43
+step 12375 - supervised loss: 0.74 - unsupervised loss: 6.29 - 10.2 sentences per second
+time taken 37376.87
+step 12425 - supervised loss: 0.73 - unsupervised loss: 6.23 - 10.2 sentences per second
+time taken 37525.17
+step 12450 - supervised loss: 0.73 - unsupervised loss: 6.25 - 10.2 sentences per second
+time taken 37594.00
+step 12550 - supervised loss: 0.74 - unsupervised loss: 6.28 - 10.2 sentences per second
+time taken 37925.29
+step 12575 - supervised loss: 0.74 - unsupervised loss: 6.20 - 10.2 sentences per second
+time taken 37996.75
+step 12625 - supervised loss: 0.74 - unsupervised loss: 6.25 - 10.3 sentences per second
+time taken 38135.05
+step 12650 - supervised loss: 0.73 - unsupervised loss: 6.20 - 10.3 sentences per second
+time taken 38203.36
+step 12700 - supervised loss: 0.74 - unsupervised loss: 6.23 - 10.3 sentences per second
+time taken 38335.67
+step 12725 - supervised loss: 0.73 - unsupervised loss: 6.23 - 10.3 sentences per second
+time taken 38411.19
+step 12800 - supervised loss: 0.73 - unsupervised loss: 6.26 - 10.3 sentences per second
+time taken 38620.10
+step 12825 - supervised loss: 0.73 - unsupervised loss: 6.44 - 10.3 sentences per second
+time taken 38697.06
+step 12875 - supervised loss: 0.74 - unsupervised loss: 6.32 - 10.3 sentences per second
+time taken 38833.65
+step 12900 - supervised loss: 0.73 - unsupervised loss: 6.29 - 10.3 sentences per second
+time taken 38905.16
+step 12925 - supervised loss: 0.73 - unsupervised loss: 6.27 - 10.3 sentences per second
+time taken 38978.22
+step 12975 - supervised loss: 0.74 - unsupervised loss: 6.20 - 10.3 sentences per second
+time taken 39117.97
+step 13025 - supervised loss: 0.73 - unsupervised loss: 6.18 - 10.3 sentences per second
+time taken 39320.22
+step 13075 - supervised loss: 0.73 - unsupervised loss: 6.24 - 10.3 sentences per second
+time taken 39464.83
+step 13100 - supervised loss: 0.73 - unsupervised loss: 6.33 - 10.3 sentences per second
+time taken 39534.27
+step 13150 - supervised loss: 0.73 - unsupervised loss: 6.24 - 10.3 sentences per second
+time taken 39671.21
+step 13175 - supervised loss: 0.73 - unsupervised loss: 6.37 - 10.3 sentences per second
+time taken 39741.12
+step 13200 - supervised loss: 0.73 - unsupervised loss: 6.24 - 10.3 sentences per second
+time taken 39813.36
+step 13250 - supervised loss: 0.74 - unsupervised loss: 6.22 - 10.3 sentences per second
+time taken 39947.60
+step 13300 - supervised loss: 0.73 - unsupervised loss: 6.20 - 10.3 sentences per second
+time taken 40080.52
+step 13325 - supervised loss: 0.73 - unsupervised loss: 6.14 - 10.3 sentences per second
+time taken 40152.49
+step 13400 - supervised loss: 0.73 - unsupervised loss: 6.27 - 10.3 sentences per second
+time taken 40362.90
+step 13450 - supervised loss: 0.74 - unsupervised loss: 6.35 - 10.3 sentences per second
+time taken 40501.67
+step 13575 - supervised loss: 0.73 - unsupervised loss: 6.21 - 10.3 sentences per second
+time taken 40889.03
+step 13625 - supervised loss: 0.74 - unsupervised loss: 6.26 - 10.3 sentences per second
+time taken 41024.15
+step 13650 - supervised loss: 0.72 - unsupervised loss: 6.31 - 10.3 sentences per second
+time taken 41093.93
+step 13750 - supervised loss: 0.73 - unsupervised loss: 6.25 - 10.3 sentences per second
+time taken 41385.46
+step 13825 - supervised loss: 0.73 - unsupervised loss: 6.26 - 10.3 sentences per second
+time taken 41599.24
+step 13900 - supervised loss: 0.73 - unsupervised loss: 6.32 - 10.4 sentences per second
+time taken 41801.41
+step 13975 - supervised loss: 0.73 - unsupervised loss: 6.29 - 10.4 sentences per second
+time taken 42012.81
+step 14025 - supervised loss: 0.74 - unsupervised loss: 6.37 - 10.4 sentences per second
+time taken 42225.68
+step 14050 - supervised loss: 0.73 - unsupervised loss: 6.19 - 10.4 sentences per second
+time taken 42371.23
+step 14200 - supervised loss: 0.73 - unsupervised loss: 6.25 - 10.4 sentences per second
+time taken 42867.61
+step 14225 - supervised loss: 0.73 - unsupervised loss: 6.26 - 10.4 sentences per second
+time taken 42933.76
+step 14275 - supervised loss: 0.74 - unsupervised loss: 6.28 - 10.4 sentences per second
+time taken 43074.23
+step 14350 - supervised loss: 0.73 - unsupervised loss: 6.29 - 10.4 sentences per second
+time taken 43287.23
+step 14425 - supervised loss: 0.74 - unsupervised loss: 6.25 - 10.4 sentences per second
+time taken 43506.61
+step 14650 - supervised loss: 0.73 - unsupervised loss: 6.26 - 10.4 sentences per second
+time taken 44173.46
+step 14700 - supervised loss: 0.73 - unsupervised loss: 6.22 - 10.4 sentences per second
+time taken 44313.29
+step 14750 - supervised loss: 0.72 - unsupervised loss: 6.19 - 10.4 sentences per second
+time taken 44459.05
+step 14775 - supervised loss: 0.74 - unsupervised loss: 6.10 - 10.4 sentences per second
+time taken 44532.16
+step 14800 - supervised loss: 0.73 - unsupervised loss: 6.32 - 10.4 sentences per second
+time taken 44598.27
+step 14825 - supervised loss: 0.72 - unsupervised loss: 6.29 - 10.4 sentences per second
+time taken 44664.51
+step 14875 - supervised loss: 0.72 - unsupervised loss: 6.18 - 10.4 sentences per second
+time taken 44795.53
+step 14900 - supervised loss: 0.72 - unsupervised loss: 6.21 - 10.4 sentences per second
+time taken 44863.84
+step 14925 - supervised loss: 0.73 - unsupervised loss: 6.28 - 10.4 sentences per second
+time taken 44934.30
+step 15025 - supervised loss: 0.73 - unsupervised loss: 6.17 - 10.4 sentences per second
+time taken 45274.47
+step 15100 - supervised loss: 0.73 - unsupervised loss: 6.28 - 10.4 sentences per second
+time taken 45506.23
+step 15125 - supervised loss: 0.73 - unsupervised loss: 6.24 - 10.4 sentences per second
+time taken 45576.72
+step 15150 - supervised loss: 0.73 - unsupervised loss: 6.34 - 10.4 sentences per second
+time taken 45643.03
+step 15200 - supervised loss: 0.72 - unsupervised loss: 6.21 - 10.4 sentences per second
+time taken 45787.92
+step 15300 - supervised loss: 0.73 - unsupervised loss: 6.19 - 10.4 sentences per second
+time taken 46073.07
+step 15375 - supervised loss: 0.72 - unsupervised loss: 6.19 - 10.4 sentences per second
+time taken 46289.35
+step 15400 - supervised loss: 0.72 - unsupervised loss: 6.23 - 10.4 sentences per second
+time taken 46362.36
+step 15425 - supervised loss: 0.73 - unsupervised loss: 6.16 - 10.4 sentences per second
+time taken 46434.46
+step 15450 - supervised loss: 0.73 - unsupervised loss: 6.26 - 10.4 sentences per second
+time taken 46508.78
+step 15475 - supervised loss: 0.72 - unsupervised loss: 6.12 - 10.4 sentences per second
+time taken 46576.08
+step 15600 - supervised loss: 0.72 - unsupervised loss: 6.19 - 10.5 sentences per second
+time taken 46974.33
+step 15675 - supervised loss: 0.72 - unsupervised loss: 6.17 - 10.5 sentences per second
+time taken 47184.20
+step 15700 - supervised loss: 0.72 - unsupervised loss: 6.31 - 10.5 sentences per second
+time taken 47249.98
+step 15725 - supervised loss: 0.72 - unsupervised loss: 6.13 - 10.5 sentences per second
+time taken 47317.23
+step 15775 - supervised loss: 0.73 - unsupervised loss: 6.26 - 10.5 sentences per second
+time taken 47459.65
+step 15800 - supervised loss: 0.72 - unsupervised loss: 6.11 - 10.5 sentences per second
+time taken 47530.08
+step 15850 - supervised loss: 0.72 - unsupervised loss: 6.24 - 10.5 sentences per second
+time taken 47670.37
+step 15875 - supervised loss: 0.72 - unsupervised loss: 6.18 - 10.5 sentences per second
+time taken 47734.76
+
+
+
+
+
+
+
+
+
+Worker 2 Node 2
+
+
+
+================================================================================
+START TRAINING (default_model)
+================================================================================
+WARNING:tensorflow:From /home/karanm/project/cvt/corpus_processing/unlabeled_data.py:75: __init__ (from tensorflow.python.platform.gfile) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.gfile.GFile.
+step 25 - supervised loss: 3.69 - unsupervised loss: 18.73 - 9.3 sentences per second
+time taken 81.28
+step 100 - supervised loss: 2.93 - unsupervised loss: 16.95 - 10.7 sentences per second
+time taken 308.70
+step 250 - supervised loss: 2.52 - unsupervised loss: 14.17 - 11.0 sentences per second
+time taken 742.94
+step 275 - supervised loss: 2.25 - unsupervised loss: 13.45 - 11.1 sentences per second
+time taken 817.02
+step 300 - supervised loss: 2.11 - unsupervised loss: 13.24 - 11.2 sentences per second
+time taken 893.83
+step 325 - supervised loss: 2.07 - unsupervised loss: 13.10 - 11.3 sentences per second
+time taken 969.68
+step 375 - supervised loss: 2.03 - unsupervised loss: 12.55 - 11.3 sentences per second
+time taken 1107.68
+step 425 - supervised loss: 1.92 - unsupervised loss: 12.62 - 11.4 sentences per second
+time taken 1246.65
+step 525 - supervised loss: 1.78 - unsupervised loss: 11.24 - 11.4 sentences per second
+time taken 1569.89
+step 550 - supervised loss: 1.83 - unsupervised loss: 11.48 - 11.3 sentences per second
+time taken 1645.12
+step 575 - supervised loss: 1.68 - unsupervised loss: 11.07 - 11.3 sentences per second
+time taken 1715.25
+step 675 - supervised loss: 1.59 - unsupervised loss: 10.81 - 11.2 sentences per second
+time taken 2010.76
+step 700 - supervised loss: 1.47 - unsupervised loss: 10.22 - 11.3 sentences per second
+time taken 2076.52
+step 725 - supervised loss: 1.56 - unsupervised loss: 10.66 - 11.3 sentences per second
+time taken 2141.81
+step 825 - supervised loss: 1.48 - unsupervised loss: 10.10 - 11.2 sentences per second
+time taken 2434.08
+step 850 - supervised loss: 1.49 - unsupervised loss: 10.25 - 11.2 sentences per second
+time taken 2512.42
+step 925 - supervised loss: 1.41 - unsupervised loss: 10.02 - 11.3 sentences per second
+time taken 2718.98
+step 950 - supervised loss: 1.41 - unsupervised loss: 9.86 - 11.2 sentences per second
+time taken 2802.95
+step 1025 - supervised loss: 1.30 - unsupervised loss: 9.22 - 11.3 sentences per second
+time taken 3079.77
+step 1100 - supervised loss: 1.28 - unsupervised loss: 9.37 - 11.3 sentences per second
+time taken 3298.29
+step 1150 - supervised loss: 1.29 - unsupervised loss: 8.93 - 11.3 sentences per second
+time taken 3443.53
+step 1200 - supervised loss: 1.27 - unsupervised loss: 8.78 - 11.3 sentences per second
+time taken 3598.46
+step 1300 - supervised loss: 1.27 - unsupervised loss: 8.85 - 11.3 sentences per second
+time taken 3877.53
+step 1350 - supervised loss: 1.29 - unsupervised loss: 9.03 - 11.3 sentences per second
+time taken 4026.29
+step 1400 - supervised loss: 1.28 - unsupervised loss: 9.37 - 11.3 sentences per second
+time taken 4176.26
+step 1425 - supervised loss: 1.26 - unsupervised loss: 8.87 - 11.3 sentences per second
+time taken 4244.44
+step 1450 - supervised loss: 1.24 - unsupervised loss: 9.02 - 11.3 sentences per second
+time taken 4317.47
+step 1475 - supervised loss: 1.24 - unsupervised loss: 8.61 - 11.2 sentences per second
+time taken 4396.32
+step 1500 - supervised loss: 1.21 - unsupervised loss: 8.59 - 11.3 sentences per second
+time taken 4467.78
+
+================================================================================
+EVAL ON DEV (default_model)
+================================================================================
+CHUNK: precision: 81.76 - recall: 79.78 - f1: 80.76 - loss: 0.70
+New best model! Saving...
+
+step 1625 - supervised loss: 1.25 - unsupervised loss: 8.92 - 11.1 sentences per second
+time taken 4857.76
+step 1650 - supervised loss: 1.20 - unsupervised loss: 8.86 - 11.1 sentences per second
+time taken 4928.93
+step 1725 - supervised loss: 1.27 - unsupervised loss: 9.28 - 11.2 sentences per second
+time taken 5137.39
+step 1800 - supervised loss: 1.23 - unsupervised loss: 8.74 - 11.2 sentences per second
+time taken 5341.21
+step 1825 - supervised loss: 1.29 - unsupervised loss: 9.88 - 11.2 sentences per second
+time taken 5411.63
+step 1875 - supervised loss: 1.20 - unsupervised loss: 8.76 - 11.2 sentences per second
+time taken 5544.65
+step 1925 - supervised loss: 1.32 - unsupervised loss: 9.61 - 11.2 sentences per second
+time taken 5684.31
+step 1975 - supervised loss: 1.21 - unsupervised loss: 8.60 - 11.2 sentences per second
+time taken 5820.50
+step 2000 - supervised loss: 1.25 - unsupervised loss: 8.68 - 11.2 sentences per second
+time taken 5890.48
+
+================================================================================
+EVAL ON DEV (default_model)
+================================================================================
+CHUNK: precision: 86.24 - recall: 86.57 - f1: 86.41 - loss: 0.60
+New best model! Saving...
+
+
+================================================================================
+EVAL ON TRAIN (default_model)
+================================================================================
+CHUNK: precision: 86.09 - recall: 86.97 - f1: 86.53 - loss: 0.61
+
+
+================================================================================
+CHECKPOINTING MODEL (default_model)
+================================================================================
+
+step 2075 - supervised loss: 1.14 - unsupervised loss: 9.27 - 10.6 sentences per second
+time taken 6295.64
+step 2125 - supervised loss: 1.17 - unsupervised loss: 8.40 - 10.5 sentences per second
+time taken 6441.53
+step 2150 - supervised loss: 1.23 - unsupervised loss: 9.87 - 10.6 sentences per second
+time taken 6513.52
+step 2175 - supervised loss: 1.20 - unsupervised loss: 9.59 - 10.6 sentences per second
+time taken 6578.51
+step 2225 - supervised loss: 1.21 - unsupervised loss: 8.81 - 10.6 sentences per second
+time taken 6715.48
+step 2250 - supervised loss: 1.20 - unsupervised loss: 10.09 - 10.6 sentences per second
+time taken 6791.41
+step 2300 - supervised loss: 1.19 - unsupervised loss: 8.38 - 10.6 sentences per second
+time taken 6928.19
+step 2325 - supervised loss: 1.15 - unsupervised loss: 9.65 - 10.6 sentences per second
+time taken 6993.86
+step 2375 - supervised loss: 1.19 - unsupervised loss: 8.07 - 10.6 sentences per second
+time taken 7138.34
+step 2400 - supervised loss: 1.23 - unsupervised loss: 9.95 - 10.7 sentences per second
+time taken 7209.21
+step 2450 - supervised loss: 1.15 - unsupervised loss: 8.16 - 10.7 sentences per second
+time taken 7351.31
+step 2500 - supervised loss: 1.20 - unsupervised loss: 9.07 - 10.7 sentences per second
+time taken 7493.53
+
+================================================================================
+EVAL ON DEV (default_model)
+================================================================================
+CHUNK: precision: 87.40 - recall: 88.42 - f1: 87.91 - loss: 0.54
+New best model! Saving...
+
+step 2525 - supervised loss: 1.10 - unsupervised loss: 7.90 - 10.5 sentences per second
+time taken 7614.98
+step 2550 - supervised loss: 1.10 - unsupervised loss: 8.88 - 10.5 sentences per second
+time taken 7681.13
+step 2575 - supervised loss: 1.10 - unsupervised loss: 8.37 - 10.5 sentences per second
+time taken 7750.39
+step 2650 - supervised loss: 1.16 - unsupervised loss: 9.18 - 10.6 sentences per second
+time taken 7956.95
+step 2675 - supervised loss: 1.23 - unsupervised loss: 8.57 - 10.6 sentences per second
+time taken 8033.08
+step 2700 - supervised loss: 1.25 - unsupervised loss: 9.71 - 10.6 sentences per second
+time taken 8101.73
+step 2725 - supervised loss: 1.16 - unsupervised loss: 7.85 - 10.6 sentences per second
+time taken 8170.19
+step 2750 - supervised loss: 1.17 - unsupervised loss: 9.18 - 10.6 sentences per second
+time taken 8239.81
+step 2775 - supervised loss: 1.14 - unsupervised loss: 8.78 - 10.6 sentences per second
+time taken 8315.85
+step 2825 - supervised loss: 1.05 - unsupervised loss: 7.94 - 10.6 sentences per second
+time taken 8460.83
+step 2850 - supervised loss: 1.04 - unsupervised loss: 7.79 - 10.6 sentences per second
+time taken 8536.53
+step 2900 - supervised loss: 1.11 - unsupervised loss: 8.41 - 10.6 sentences per second
+time taken 8680.38
+step 2950 - supervised loss: 1.07 - unsupervised loss: 8.00 - 10.6 sentences per second
+time taken 8817.67
+step 3025 - supervised loss: 1.05 - unsupervised loss: 7.86 - 10.7 sentences per second
+time taken 9102.66
+step 3050 - supervised loss: 1.00 - unsupervised loss: 8.02 - 10.7 sentences per second
+time taken 9215.76
+step 3100 - supervised loss: 1.02 - unsupervised loss: 7.80 - 10.7 sentences per second
+time taken 9348.06
+step 3175 - supervised loss: 1.06 - unsupervised loss: 8.22 - 10.7 sentences per second
+time taken 9557.53
+step 3225 - supervised loss: 1.01 - unsupervised loss: 7.86 - 10.7 sentences per second
+time taken 9701.93
+step 3275 - supervised loss: 1.00 - unsupervised loss: 7.90 - 10.7 sentences per second
+time taken 9840.99
+step 3300 - supervised loss: 0.99 - unsupervised loss: 8.21 - 10.7 sentences per second
+time taken 9917.19
+step 3325 - supervised loss: 0.99 - unsupervised loss: 7.92 - 10.7 sentences per second
+time taken 9986.75
+step 3450 - supervised loss: 0.98 - unsupervised loss: 7.82 - 10.8 sentences per second
+time taken 10343.90
+step 3475 - supervised loss: 0.98 - unsupervised loss: 7.57 - 10.7 sentences per second
+time taken 10417.02
+step 3500 - supervised loss: 0.97 - unsupervised loss: 7.55 - 10.7 sentences per second
+time taken 10489.10
+
+================================================================================
+EVAL ON DEV (default_model)
+================================================================================
+CHUNK: precision: 90.22 - recall: 91.05 - f1: 90.63 - loss: 0.35
+New best model! Saving...
+
+step 3525 - supervised loss: 0.94 - unsupervised loss: 6.67 - 10.7 sentences per second
+time taken 10614.58
+step 3575 - supervised loss: 1.00 - unsupervised loss: 7.91 - 10.7 sentences per second
+time taken 10755.00
+step 3600 - supervised loss: 0.98 - unsupervised loss: 7.68 - 10.7 sentences per second
+time taken 10829.81
+step 3650 - supervised loss: 0.95 - unsupervised loss: 7.58 - 10.7 sentences per second
+time taken 10962.63
+step 3725 - supervised loss: 0.96 - unsupervised loss: 7.80 - 10.7 sentences per second
+time taken 11199.00
+step 3750 - supervised loss: 0.97 - unsupervised loss: 8.22 - 10.7 sentences per second
+time taken 11270.95
+step 3850 - supervised loss: 0.98 - unsupervised loss: 7.87 - 10.7 sentences per second
+time taken 11556.35
+step 3925 - supervised loss: 0.96 - unsupervised loss: 7.81 - 10.7 sentences per second
+time taken 11778.18
+step 4025 - supervised loss: 0.94 - unsupervised loss: 7.37 - 10.8 sentences per second
+time taken 12129.57
+step 4050 - supervised loss: 0.88 - unsupervised loss: 7.18 - 10.8 sentences per second
+time taken 12263.74
+step 4100 - supervised loss: 0.87 - unsupervised loss: 6.95 - 10.8 sentences per second
+time taken 12462.29
+step 4125 - supervised loss: 0.88 - unsupervised loss: 7.13 - 10.8 sentences per second
+time taken 12537.86
+step 4175 - supervised loss: 0.93 - unsupervised loss: 7.06 - 10.8 sentences per second
+time taken 12699.80
+step 4250 - supervised loss: 0.95 - unsupervised loss: 7.53 - 10.8 sentences per second
+time taken 12910.69
+step 4275 - supervised loss: 0.90 - unsupervised loss: 6.82 - 10.8 sentences per second
+time taken 12978.93
+step 4300 - supervised loss: 0.88 - unsupervised loss: 7.27 - 10.8 sentences per second
+time taken 13044.89
+step 4325 - supervised loss: 0.89 - unsupervised loss: 6.96 - 10.8 sentences per second
+time taken 13114.82
+step 4350 - supervised loss: 0.91 - unsupervised loss: 7.65 - 10.8 sentences per second
+time taken 13182.89
+step 4375 - supervised loss: 0.95 - unsupervised loss: 7.62 - 10.8 sentences per second
+time taken 13252.91
+step 4400 - supervised loss: 0.98 - unsupervised loss: 7.76 - 10.8 sentences per second
+time taken 13327.47
+step 4450 - supervised loss: 0.98 - unsupervised loss: 7.88 - 10.8 sentences per second
+time taken 13473.46
+step 4475 - supervised loss: 0.92 - unsupervised loss: 7.34 - 10.8 sentences per second
+time taken 13540.70
+step 4575 - supervised loss: 0.91 - unsupervised loss: 7.48 - 10.9 sentences per second
+time taken 13860.59
+step 4625 - supervised loss: 0.95 - unsupervised loss: 7.48 - 10.9 sentences per second
+time taken 13997.13
+step 4675 - supervised loss: 0.91 - unsupervised loss: 7.08 - 10.9 sentences per second
+time taken 14135.95
+step 4700 - supervised loss: 0.89 - unsupervised loss: 7.08 - 10.9 sentences per second
+time taken 14204.36
+step 4750 - supervised loss: 0.91 - unsupervised loss: 7.48 - 10.9 sentences per second
+time taken 14344.64
+step 4850 - supervised loss: 0.90 - unsupervised loss: 7.32 - 10.9 sentences per second
+time taken 14635.27
+step 4900 - supervised loss: 0.89 - unsupervised loss: 7.08 - 10.9 sentences per second
+time taken 14774.38
+step 5000 - supervised loss: 0.92 - unsupervised loss: 7.58 - 10.9 sentences per second
+time taken 15047.62
+
+================================================================================
+EVAL ON DEV (default_model)
+================================================================================
+CHUNK: precision: 94.15 - recall: 94.40 - f1: 94.27 - loss: 0.24
+New best model! Saving...
+
+
+================================================================================
+CHECKPOINTING MODEL (default_model)
+================================================================================
+
+step 5050 - supervised loss: 0.86 - unsupervised loss: 7.29 - 10.8 sentences per second
+time taken 15250.47
+step 5100 - supervised loss: 0.86 - unsupervised loss: 7.00 - 10.8 sentences per second
+time taken 15391.84
+step 5125 - supervised loss: 0.86 - unsupervised loss: 7.07 - 10.8 sentences per second
+time taken 15467.20
+step 5350 - supervised loss: 0.87 - unsupervised loss: 7.06 - 10.8 sentences per second
+time taken 16102.16
+step 5375 - supervised loss: 0.87 - unsupervised loss: 6.82 - 10.8 sentences per second
+time taken 16181.89
+step 5400 - supervised loss: 0.84 - unsupervised loss: 7.24 - 10.8 sentences per second
+time taken 16262.66
+step 5500 - supervised loss: 0.88 - unsupervised loss: 7.13 - 10.9 sentences per second
+time taken 16548.22
+
+================================================================================
+EVAL ON DEV (default_model)
+================================================================================
+CHUNK: precision: 95.10 - recall: 95.19 - f1: 95.14 - loss: 0.22
+New best model! Saving...
+
+step 5650 - supervised loss: 0.84 - unsupervised loss: 6.96 - 10.8 sentences per second
+time taken 17016.44
+step 5675 - supervised loss: 0.86 - unsupervised loss: 6.99 - 10.8 sentences per second
+time taken 17091.45
+step 5700 - supervised loss: 0.86 - unsupervised loss: 7.32 - 10.8 sentences per second
+time taken 17160.71
+step 5725 - supervised loss: 0.86 - unsupervised loss: 6.42 - 10.8 sentences per second
+time taken 17226.18
+step 5925 - supervised loss: 0.83 - unsupervised loss: 6.81 - 10.8 sentences per second
+time taken 17791.66
+step 6000 - supervised loss: 0.84 - unsupervised loss: 6.86 - 10.8 sentences per second
+time taken 18007.09
+
+================================================================================
+EVAL ON DEV (default_model)
+================================================================================
+CHUNK: precision: 95.62 - recall: 95.58 - f1: 95.60 - loss: 0.20
+New best model! Saving...
+
+
+================================================================================
+EVAL ON TRAIN (default_model)
+================================================================================
+CHUNK: precision: 95.52 - recall: 95.65 - f1: 95.58 - loss: 0.20
+
+
+================================================================================
+CHECKPOINTING MODEL (default_model)
+================================================================================
+
+step 6075 - supervised loss: 0.80 - unsupervised loss: 6.72 - 10.6 sentences per second
+time taken 18424.79
+step 6100 - supervised loss: 0.80 - unsupervised loss: 6.50 - 10.6 sentences per second
+time taken 18501.83
+step 6175 - supervised loss: 0.80 - unsupervised loss: 6.65 - 10.6 sentences per second
+time taken 18709.61
+step 6225 - supervised loss: 0.80 - unsupervised loss: 6.56 - 10.7 sentences per second
+time taken 18841.00
+step 6250 - supervised loss: 0.82 - unsupervised loss: 7.21 - 10.7 sentences per second
+time taken 18916.43
+step 6300 - supervised loss: 0.82 - unsupervised loss: 6.79 - 10.7 sentences per second
+time taken 19070.68
+step 6325 - supervised loss: 0.82 - unsupervised loss: 6.31 - 10.7 sentences per second
+time taken 19142.58
+step 6425 - supervised loss: 0.82 - unsupervised loss: 6.75 - 10.7 sentences per second
+time taken 19422.34
+step 6450 - supervised loss: 0.83 - unsupervised loss: 6.81 - 10.7 sentences per second
+time taken 19504.70
+step 6475 - supervised loss: 0.83 - unsupervised loss: 6.57 - 10.7 sentences per second
+time taken 19574.73
+step 6525 - supervised loss: 0.81 - unsupervised loss: 6.71 - 10.7 sentences per second
+time taken 19759.28
+step 6550 - supervised loss: 0.80 - unsupervised loss: 6.53 - 10.7 sentences per second
+time taken 19831.37
+step 6575 - supervised loss: 0.78 - unsupervised loss: 6.30 - 10.7 sentences per second
+time taken 19898.75
+step 6625 - supervised loss: 0.80 - unsupervised loss: 6.56 - 10.7 sentences per second
+time taken 20036.28
+step 6700 - supervised loss: 0.80 - unsupervised loss: 6.62 - 10.7 sentences per second
+time taken 20233.99
+step 6725 - supervised loss: 0.81 - unsupervised loss: 6.81 - 10.7 sentences per second
+time taken 20303.38
+step 6750 - supervised loss: 0.79 - unsupervised loss: 6.71 - 10.7 sentences per second
+time taken 20372.38
+step 6775 - supervised loss: 0.81 - unsupervised loss: 6.33 - 10.7 sentences per second
+time taken 20451.85
+step 6825 - supervised loss: 0.79 - unsupervised loss: 6.70 - 10.7 sentences per second
+time taken 20589.08
+step 6850 - supervised loss: 0.81 - unsupervised loss: 6.83 - 10.7 sentences per second
+time taken 20660.58
+step 7025 - supervised loss: 0.79 - unsupervised loss: 6.60 - 10.8 sentences per second
+time taken 21206.46
+step 7175 - supervised loss: 0.79 - unsupervised loss: 6.52 - 10.8 sentences per second
+time taken 21643.28
+step 7200 - supervised loss: 0.77 - unsupervised loss: 6.46 - 10.8 sentences per second
+time taken 21711.13
+step 7375 - supervised loss: 0.79 - unsupervised loss: 6.52 - 10.8 sentences per second
+time taken 22190.77
+step 7400 - supervised loss: 0.80 - unsupervised loss: 6.67 - 10.8 sentences per second
+time taken 22261.83
+step 7450 - supervised loss: 0.78 - unsupervised loss: 6.52 - 10.8 sentences per second
+time taken 22400.14
+step 7475 - supervised loss: 0.80 - unsupervised loss: 6.28 - 10.8 sentences per second
+time taken 22467.61
+step 7500 - supervised loss: 0.77 - unsupervised loss: 6.58 - 10.8 sentences per second
+time taken 22537.44
+
+================================================================================
+EVAL ON DEV (default_model)
+================================================================================
+CHUNK: precision: 96.93 - recall: 96.97 - f1: 96.95 - loss: 0.17
+New best model! Saving...
+
+step 7525 - supervised loss: 0.79 - unsupervised loss: 6.64 - 10.8 sentences per second
+time taken 22653.78
+step 7550 - supervised loss: 0.77 - unsupervised loss: 6.37 - 10.8 sentences per second
+time taken 22722.83
+step 7575 - supervised loss: 0.77 - unsupervised loss: 6.56 - 10.8 sentences per second
+time taken 22801.19
+step 7675 - supervised loss: 0.78 - unsupervised loss: 6.45 - 10.8 sentences per second
+time taken 23086.42
+step 7750 - supervised loss: 0.78 - unsupervised loss: 6.47 - 10.8 sentences per second
+time taken 23298.36
+step 7875 - supervised loss: 0.78 - unsupervised loss: 6.55 - 10.8 sentences per second
+time taken 23663.63
+step 7925 - supervised loss: 0.78 - unsupervised loss: 6.53 - 10.8 sentences per second
+time taken 23801.18
+step 7975 - supervised loss: 0.78 - unsupervised loss: 6.52 - 10.8 sentences per second
+time taken 23937.94
+step 8025 - supervised loss: 0.77 - unsupervised loss: 6.49 - 10.8 sentences per second
+time taken 24145.51
+step 8050 - supervised loss: 0.77 - unsupervised loss: 6.37 - 10.8 sentences per second
+time taken 24294.67
+step 8075 - supervised loss: 0.78 - unsupervised loss: 6.40 - 10.8 sentences per second
+time taken 24435.98
+step 8100 - supervised loss: 0.76 - unsupervised loss: 6.33 - 10.8 sentences per second
+time taken 24568.14
+step 8175 - supervised loss: 0.77 - unsupervised loss: 6.37 - 10.8 sentences per second
+time taken 24814.42
+step 8200 - supervised loss: 0.76 - unsupervised loss: 6.51 - 10.8 sentences per second
+time taken 24880.89
+step 8225 - supervised loss: 0.76 - unsupervised loss: 6.37 - 10.8 sentences per second
+time taken 24952.76
+step 8275 - supervised loss: 0.76 - unsupervised loss: 6.44 - 10.8 sentences per second
+time taken 25093.08
+step 8350 - supervised loss: 0.77 - unsupervised loss: 6.44 - 10.8 sentences per second
+time taken 25308.15
+step 8375 - supervised loss: 0.76 - unsupervised loss: 6.41 - 10.8 sentences per second
+time taken 25373.45
+step 8475 - supervised loss: 0.77 - unsupervised loss: 6.46 - 10.8 sentences per second
+time taken 25653.92
+step 8500 - supervised loss: 0.77 - unsupervised loss: 6.40 - 10.8 sentences per second
+time taken 25718.90
+
+================================================================================
+EVAL ON DEV (default_model)
+================================================================================
+CHUNK: precision: 97.50 - recall: 97.58 - f1: 97.54 - loss: 0.15
+New best model! Saving...
+
+step 8525 - supervised loss: 0.77 - unsupervised loss: 6.42 - 10.8 sentences per second
+time taken 25829.71
+step 8575 - supervised loss: 0.78 - unsupervised loss: 6.47 - 10.8 sentences per second
+time taken 25973.85
+step 8650 - supervised loss: 0.78 - unsupervised loss: 6.53 - 10.8 sentences per second
+time taken 26186.19
+step 8675 - supervised loss: 0.77 - unsupervised loss: 6.21 - 10.8 sentences per second
+time taken 26255.47
+step 8725 - supervised loss: 0.78 - unsupervised loss: 6.46 - 10.8 sentences per second
+time taken 26395.45
+step 8750 - supervised loss: 0.77 - unsupervised loss: 6.50 - 10.8 sentences per second
+time taken 26463.91
+step 8775 - supervised loss: 0.76 - unsupervised loss: 6.35 - 10.8 sentences per second
+time taken 26533.91
+step 8800 - supervised loss: 0.76 - unsupervised loss: 6.50 - 10.8 sentences per second
+time taken 26601.48
+step 8825 - supervised loss: 0.77 - unsupervised loss: 6.23 - 10.8 sentences per second
+time taken 26672.47
+step 8850 - supervised loss: 0.78 - unsupervised loss: 6.63 - 10.8 sentences per second
+time taken 26742.19
+step 8950 - supervised loss: 0.77 - unsupervised loss: 6.41 - 10.8 sentences per second
+time taken 27034.47
+step 8975 - supervised loss: 0.76 - unsupervised loss: 6.40 - 10.8 sentences per second
+time taken 27103.33
+step 9025 - supervised loss: 0.77 - unsupervised loss: 6.37 - 10.8 sentences per second
+time taken 27312.32
+step 9050 - supervised loss: 0.76 - unsupervised loss: 6.49 - 10.8 sentences per second
+time taken 27433.03
+step 9100 - supervised loss: 0.76 - unsupervised loss: 6.40 - 10.8 sentences per second
+time taken 27576.12
+step 9150 - supervised loss: 0.76 - unsupervised loss: 6.37 - 10.8 sentences per second
+time taken 27716.70
+step 9250 - supervised loss: 0.76 - unsupervised loss: 6.38 - 10.8 sentences per second
+time taken 28019.97
+step 9350 - supervised loss: 0.75 - unsupervised loss: 6.34 - 10.9 sentences per second
+time taken 28293.45
+step 9400 - supervised loss: 0.76 - unsupervised loss: 6.38 - 10.9 sentences per second
+time taken 28444.90
+step 9550 - supervised loss: 0.76 - unsupervised loss: 6.32 - 10.9 sentences per second
+time taken 28904.94
+step 9675 - supervised loss: 0.76 - unsupervised loss: 6.38 - 10.9 sentences per second
+time taken 29257.90
+step 9800 - supervised loss: 0.76 - unsupervised loss: 6.44 - 10.9 sentences per second
+time taken 29608.41
+step 9850 - supervised loss: 0.76 - unsupervised loss: 6.40 - 10.9 sentences per second
+time taken 29750.91
+step 9900 - supervised loss: 0.76 - unsupervised loss: 6.46 - 10.9 sentences per second
+time taken 29891.50
+step 9950 - supervised loss: 0.75 - unsupervised loss: 6.37 - 10.9 sentences per second
+time taken 30033.32
+step 10025 - supervised loss: 0.75 - unsupervised loss: 6.40 - 10.9 sentences per second
+time taken 30305.80
+step 10050 - supervised loss: 0.75 - unsupervised loss: 6.25 - 10.9 sentences per second
+time taken 30451.09
+step 10125 - supervised loss: 0.75 - unsupervised loss: 6.36 - 10.9 sentences per second
+time taken 30724.56
+step 10200 - supervised loss: 0.75 - unsupervised loss: 6.30 - 10.9 sentences per second
+time taken 30930.80
+step 10250 - supervised loss: 0.75 - unsupervised loss: 6.35 - 10.9 sentences per second
+time taken 31079.63
+step 10275 - supervised loss: 0.75 - unsupervised loss: 6.34 - 10.9 sentences per second
+time taken 31147.65
+step 10300 - supervised loss: 0.74 - unsupervised loss: 6.44 - 10.9 sentences per second
+time taken 31217.24
+step 10350 - supervised loss: 0.74 - unsupervised loss: 6.35 - 10.9 sentences per second
+time taken 31361.34
+step 10425 - supervised loss: 0.75 - unsupervised loss: 6.32 - 10.9 sentences per second
+time taken 31576.02
+step 10450 - supervised loss: 0.75 - unsupervised loss: 6.36 - 10.9 sentences per second
+time taken 31649.57
+step 10475 - supervised loss: 0.75 - unsupervised loss: 6.29 - 10.9 sentences per second
+time taken 31719.58
+step 10500 - supervised loss: 0.74 - unsupervised loss: 6.37 - 10.9 sentences per second
+time taken 31788.17
+
+================================================================================
+EVAL ON DEV (default_model)
+================================================================================
+CHUNK: precision: 98.20 - recall: 98.27 - f1: 98.24 - loss: 0.14
+New best model! Saving...
+
+step 10525 - supervised loss: 0.74 - unsupervised loss: 6.35 - 10.9 sentences per second
+time taken 31896.17
+step 10550 - supervised loss: 0.74 - unsupervised loss: 6.32 - 10.9 sentences per second
+time taken 31968.16
+step 10575 - supervised loss: 0.75 - unsupervised loss: 6.35 - 10.9 sentences per second
+time taken 32038.93
+step 10600 - supervised loss: 0.75 - unsupervised loss: 6.25 - 10.9 sentences per second
+time taken 32105.56
+step 10675 - supervised loss: 0.74 - unsupervised loss: 6.31 - 10.9 sentences per second
+time taken 32315.00
+step 10775 - supervised loss: 0.75 - unsupervised loss: 6.41 - 10.9 sentences per second
+time taken 32609.32
+step 10825 - supervised loss: 0.76 - unsupervised loss: 6.29 - 10.9 sentences per second
+time taken 32745.62
+step 10850 - supervised loss: 0.75 - unsupervised loss: 6.31 - 10.9 sentences per second
+time taken 32816.83
+step 10875 - supervised loss: 0.75 - unsupervised loss: 6.29 - 10.9 sentences per second
+time taken 32888.91
+step 10900 - supervised loss: 0.75 - unsupervised loss: 6.61 - 10.9 sentences per second
+time taken 32957.08
+step 10925 - supervised loss: 0.75 - unsupervised loss: 6.32 - 10.9 sentences per second
+time taken 33025.77
+step 11000 - supervised loss: 0.74 - unsupervised loss: 6.32 - 10.9 sentences per second
+time taken 33232.38
+
+================================================================================
+EVAL ON DEV (default_model)
+================================================================================
+CHUNK: precision: 98.43 - recall: 98.41 - f1: 98.42 - loss: 0.13
+New best model! Saving...
+
+
+================================================================================
+CHECKPOINTING MODEL (default_model)
+================================================================================
+
+step 11050 - supervised loss: 0.75 - unsupervised loss: 6.33 - 10.8 sentences per second
+time taken 33429.28
+step 11100 - supervised loss: 0.75 - unsupervised loss: 6.37 - 10.9 sentences per second
+time taken 33562.07
+step 11125 - supervised loss: 0.74 - unsupervised loss: 6.32 - 10.9 sentences per second
+time taken 33630.53
+step 11150 - supervised loss: 0.75 - unsupervised loss: 6.32 - 10.9 sentences per second
+time taken 33707.94
+step 11175 - supervised loss: 0.74 - unsupervised loss: 6.31 - 10.9 sentences per second
+time taken 33783.00
+step 11250 - supervised loss: 0.74 - unsupervised loss: 6.32 - 10.8 sentences per second
+time taken 34007.38
+step 11300 - supervised loss: 0.75 - unsupervised loss: 6.36 - 10.9 sentences per second
+time taken 34142.81
+step 11325 - supervised loss: 0.74 - unsupervised loss: 6.32 - 10.9 sentences per second
+time taken 34207.31
+step 11350 - supervised loss: 0.74 - unsupervised loss: 6.23 - 10.9 sentences per second
+time taken 34276.59
+step 11375 - supervised loss: 0.75 - unsupervised loss: 6.27 - 10.9 sentences per second
+time taken 34346.33
+step 11400 - supervised loss: 0.75 - unsupervised loss: 6.29 - 10.9 sentences per second
+time taken 34417.20
+step 11500 - supervised loss: 0.74 - unsupervised loss: 6.33 - 10.9 sentences per second
+time taken 34697.00
+
+================================================================================
+EVAL ON DEV (default_model)
+================================================================================
+CHUNK: precision: 98.53 - recall: 98.55 - f1: 98.54 - loss: 0.13
+New best model! Saving...
+
+step 11525 - supervised loss: 0.73 - unsupervised loss: 6.37 - 10.8 sentences per second
+time taken 34806.89
+step 11550 - supervised loss: 0.75 - unsupervised loss: 6.22 - 10.8 sentences per second
+time taken 34875.05
+step 11575 - supervised loss: 0.74 - unsupervised loss: 6.27 - 10.8 sentences per second
+time taken 34943.30
+step 11600 - supervised loss: 0.75 - unsupervised loss: 6.28 - 10.8 sentences per second
+time taken 35013.02
+step 11700 - supervised loss: 0.74 - unsupervised loss: 6.30 - 10.8 sentences per second
+time taken 35292.19
+step 11750 - supervised loss: 0.74 - unsupervised loss: 6.34 - 10.8 sentences per second
+time taken 35427.01
+step 11775 - supervised loss: 0.73 - unsupervised loss: 6.29 - 10.8 sentences per second
+time taken 35498.69
+step 11850 - supervised loss: 0.74 - unsupervised loss: 6.32 - 10.9 sentences per second
+time taken 35706.76
+step 11875 - supervised loss: 0.74 - unsupervised loss: 6.25 - 10.9 sentences per second
+time taken 35772.37
+step 11900 - supervised loss: 0.74 - unsupervised loss: 6.28 - 10.9 sentences per second
+time taken 35844.16
+step 11925 - supervised loss: 0.75 - unsupervised loss: 6.30 - 10.9 sentences per second
+time taken 35911.66
+step 12025 - supervised loss: 0.74 - unsupervised loss: 6.26 - 10.9 sentences per second
+time taken 36259.26
+step 12050 - supervised loss: 0.74 - unsupervised loss: 6.28 - 10.9 sentences per second
+time taken 36399.10
+step 12075 - supervised loss: 0.73 - unsupervised loss: 6.19 - 10.9 sentences per second
+time taken 36525.60
+step 12225 - supervised loss: 0.74 - unsupervised loss: 6.23 - 10.9 sentences per second
+time taken 36946.11
+step 12350 - supervised loss: 0.74 - unsupervised loss: 6.30 - 10.9 sentences per second
+time taken 37295.49
+step 12400 - supervised loss: 0.73 - unsupervised loss: 6.29 - 10.9 sentences per second
+time taken 37434.97
+step 12475 - supervised loss: 0.73 - unsupervised loss: 6.21 - 10.9 sentences per second
+time taken 37655.39
+step 12500 - supervised loss: 0.74 - unsupervised loss: 6.21 - 10.9 sentences per second
+time taken 37727.44
+
+================================================================================
+EVAL ON DEV (default_model)
+================================================================================
+CHUNK: precision: 98.75 - recall: 98.73 - f1: 98.74 - loss: 0.13
+New best model! Saving...
+
+step 12525 - supervised loss: 0.74 - unsupervised loss: 6.08 - 10.9 sentences per second
+time taken 37842.30
+step 12600 - supervised loss: 0.73 - unsupervised loss: 6.27 - 10.8 sentences per second
+time taken 38048.72
+step 12675 - supervised loss: 0.73 - unsupervised loss: 6.24 - 10.9 sentences per second
+time taken 38255.74
+step 12750 - supervised loss: 0.73 - unsupervised loss: 6.30 - 10.9 sentences per second
+time taken 38469.87
+step 12775 - supervised loss: 0.74 - unsupervised loss: 6.27 - 10.9 sentences per second
+time taken 38541.14
+step 12850 - supervised loss: 0.74 - unsupervised loss: 6.30 - 10.9 sentences per second
+time taken 38748.94
+step 12950 - supervised loss: 0.73 - unsupervised loss: 6.25 - 10.9 sentences per second
+time taken 39032.64
+step 13000 - supervised loss: 0.73 - unsupervised loss: 6.34 - 10.9 sentences per second
+time taken 39173.40
+
+================================================================================
+EVAL ON DEV (default_model)
+================================================================================
+CHUNK: precision: 98.85 - recall: 98.84 - f1: 98.84 - loss: 0.12
+New best model! Saving...
+
+
+================================================================================
+CHECKPOINTING MODEL (default_model)
+================================================================================
+
+step 13050 - supervised loss: 0.74 - unsupervised loss: 6.25 - 10.8 sentences per second
+time taken 39376.79
+step 13125 - supervised loss: 0.73 - unsupervised loss: 6.23 - 10.8 sentences per second
+time taken 39586.70
+step 13225 - supervised loss: 0.73 - unsupervised loss: 6.24 - 10.8 sentences per second
+time taken 39863.53
+step 13275 - supervised loss: 0.73 - unsupervised loss: 6.28 - 10.8 sentences per second
+time taken 39997.52
+step 13350 - supervised loss: 0.73 - unsupervised loss: 6.26 - 10.9 sentences per second
+time taken 40202.97
+step 13375 - supervised loss: 0.73 - unsupervised loss: 6.33 - 10.9 sentences per second
+time taken 40273.61
+step 13425 - supervised loss: 0.74 - unsupervised loss: 6.24 - 10.9 sentences per second
+time taken 40418.19
+step 13475 - supervised loss: 0.73 - unsupervised loss: 6.31 - 10.9 sentences per second
+time taken 40557.75
+step 13500 - supervised loss: 0.73 - unsupervised loss: 6.29 - 10.9 sentences per second
+time taken 40626.25
+
+================================================================================
+EVAL ON DEV (default_model)
+================================================================================
+CHUNK: precision: 98.94 - recall: 98.92 - f1: 98.93 - loss: 0.12
+New best model! Saving...
+
+step 13525 - supervised loss: 0.73 - unsupervised loss: 6.33 - 10.8 sentences per second
+time taken 40741.00
+step 13550 - supervised loss: 0.73 - unsupervised loss: 6.25 - 10.8 sentences per second
+time taken 40805.92
+step 13600 - supervised loss: 0.74 - unsupervised loss: 6.28 - 10.8 sentences per second
+time taken 40939.15
+step 13675 - supervised loss: 0.73 - unsupervised loss: 6.31 - 10.8 sentences per second
+time taken 41144.85
+step 13700 - supervised loss: 0.72 - unsupervised loss: 6.30 - 10.8 sentences per second
+time taken 41221.65
+step 13725 - supervised loss: 0.73 - unsupervised loss: 6.12 - 10.8 sentences per second
+time taken 41296.59
+step 13775 - supervised loss: 0.73 - unsupervised loss: 6.26 - 10.8 sentences per second
+time taken 41440.22
+step 13800 - supervised loss: 0.74 - unsupervised loss: 6.16 - 10.8 sentences per second
+time taken 41512.70
+step 13850 - supervised loss: 0.73 - unsupervised loss: 6.31 - 10.8 sentences per second
+time taken 41651.49
+step 13875 - supervised loss: 0.72 - unsupervised loss: 6.24 - 10.8 sentences per second
+time taken 41717.90
+step 13925 - supervised loss: 0.73 - unsupervised loss: 6.29 - 10.8 sentences per second
+time taken 41855.12
+step 13950 - supervised loss: 0.74 - unsupervised loss: 6.17 - 10.9 sentences per second
+time taken 41928.67
+step 14000 - supervised loss: 0.74 - unsupervised loss: 6.30 - 10.8 sentences per second
+time taken 42076.55
+
+================================================================================
+EVAL ON DEV (default_model)
+================================================================================
+CHUNK: precision: 98.97 - recall: 98.95 - f1: 98.96 - loss: 0.12
+New best model! Saving...
+
+
+================================================================================
+EVAL ON TRAIN (default_model)
+================================================================================
+CHUNK: precision: 98.96 - recall: 99.01 - f1: 98.98 - loss: 0.12
+
+
+================================================================================
+CHECKPOINTING MODEL (default_model)
+================================================================================
+
+step 14075 - supervised loss: 0.77 - unsupervised loss: 6.16 - 10.7 sentences per second
+time taken 42485.69
+step 14100 - supervised loss: 0.73 - unsupervised loss: 6.10 - 10.7 sentences per second
+time taken 42556.44
+step 14125 - supervised loss: 0.73 - unsupervised loss: 6.35 - 10.7 sentences per second
+time taken 42632.18
+step 14150 - supervised loss: 0.73 - unsupervised loss: 6.28 - 10.7 sentences per second
+time taken 42705.23
+step 14175 - supervised loss: 0.73 - unsupervised loss: 6.21 - 10.7 sentences per second
+time taken 42774.91
+step 14250 - supervised loss: 0.73 - unsupervised loss: 6.23 - 10.8 sentences per second
+time taken 42992.16
+step 14300 - supervised loss: 0.73 - unsupervised loss: 6.26 - 10.8 sentences per second
+time taken 43127.61
+step 14325 - supervised loss: 0.73 - unsupervised loss: 6.24 - 10.8 sentences per second
+time taken 43199.89
+step 14375 - supervised loss: 0.73 - unsupervised loss: 6.36 - 10.8 sentences per second
+time taken 43343.95
+step 14400 - supervised loss: 0.73 - unsupervised loss: 6.36 - 10.8 sentences per second
+time taken 43418.93
+step 14450 - supervised loss: 0.73 - unsupervised loss: 6.25 - 10.8 sentences per second
+time taken 43555.68
+step 14475 - supervised loss: 0.72 - unsupervised loss: 6.24 - 10.8 sentences per second
+time taken 43623.38
+step 14500 - supervised loss: 0.73 - unsupervised loss: 6.11 - 10.8 sentences per second
+time taken 43692.05
+
+================================================================================
+EVAL ON DEV (default_model)
+================================================================================
+CHUNK: precision: 99.01 - recall: 99.02 - f1: 99.02 - loss: 0.12
+New best model! Saving...
+
+step 14525 - supervised loss: 0.71 - unsupervised loss: 6.04 - 10.7 sentences per second
+time taken 43800.21
+step 14550 - supervised loss: 0.73 - unsupervised loss: 6.18 - 10.7 sentences per second
+time taken 43875.11
+step 14575 - supervised loss: 0.73 - unsupervised loss: 6.24 - 10.7 sentences per second
+time taken 43949.14
+step 14600 - supervised loss: 0.73 - unsupervised loss: 6.18 - 10.7 sentences per second
+time taken 44020.21
+step 14625 - supervised loss: 0.73 - unsupervised loss: 6.32 - 10.7 sentences per second
+time taken 44085.14
+step 14675 - supervised loss: 0.73 - unsupervised loss: 6.26 - 10.7 sentences per second
+time taken 44232.97
+step 14725 - supervised loss: 0.72 - unsupervised loss: 6.27 - 10.8 sentences per second
+time taken 44367.62
+step 14850 - supervised loss: 0.72 - unsupervised loss: 6.19 - 10.8 sentences per second
+time taken 44718.40
+step 14950 - supervised loss: 0.73 - unsupervised loss: 6.21 - 10.8 sentences per second
+time taken 44988.21
+step 14975 - supervised loss: 0.73 - unsupervised loss: 6.23 - 10.8 sentences per second
+time taken 45061.00
+step 15000 - supervised loss: 0.73 - unsupervised loss: 6.37 - 10.8 sentences per second
+time taken 45132.27
+
+================================================================================
+EVAL ON DEV (default_model)
+================================================================================
+CHUNK: precision: 99.04 - recall: 99.01 - f1: 99.02 - loss: 0.12
+New best model! Saving...
+
+
+================================================================================
+CHECKPOINTING MODEL (default_model)
+================================================================================
+
+step 15050 - supervised loss: 0.73 - unsupervised loss: 6.21 - 10.7 sentences per second
+time taken 45338.42
+step 15075 - supervised loss: 0.73 - unsupervised loss: 6.29 - 10.7 sentences per second
+time taken 45413.66
+step 15175 - supervised loss: 0.73 - unsupervised loss: 6.25 - 10.7 sentences per second
+time taken 45701.92
+step 15225 - supervised loss: 0.72 - unsupervised loss: 6.24 - 10.7 sentences per second
+time taken 45841.51
+step 15250 - supervised loss: 0.72 - unsupervised loss: 6.08 - 10.7 sentences per second
+time taken 45907.42
+step 15275 - supervised loss: 0.72 - unsupervised loss: 6.28 - 10.7 sentences per second
+time taken 45985.10
+step 15325 - supervised loss: 0.73 - unsupervised loss: 6.23 - 10.7 sentences per second
+time taken 46128.85
+step 15350 - supervised loss: 0.73 - unsupervised loss: 6.21 - 10.7 sentences per second
+time taken 46203.12
+step 15500 - supervised loss: 0.72 - unsupervised loss: 6.19 - 10.7 sentences per second
+time taken 46636.94
+
+================================================================================
+EVAL ON DEV (default_model)
+================================================================================
+CHUNK: precision: 99.16 - recall: 99.16 - f1: 99.16 - loss: 0.12
+New best model! Saving...
+
+step 15525 - supervised loss: 0.72 - unsupervised loss: 6.25 - 10.7 sentences per second
+time taken 46749.99
+step 15550 - supervised loss: 0.72 - unsupervised loss: 6.21 - 10.7 sentences per second
+time taken 46821.72
+step 15575 - supervised loss: 0.73 - unsupervised loss: 6.17 - 10.7 sentences per second
+time taken 46887.26
+step 15625 - supervised loss: 0.72 - unsupervised loss: 6.27 - 10.7 sentences per second
+time taken 47027.15
+step 15650 - supervised loss: 0.73 - unsupervised loss: 6.29 - 10.7 sentences per second
+time taken 47100.08
+step 15750 - supervised loss: 0.73 - unsupervised loss: 6.23 - 10.7 sentences per second
+time taken 47373.24
+step 15825 - supervised loss: 0.72 - unsupervised loss: 6.16 - 10.7 sentences per second
+time taken 47584.85
+step 15900 - supervised loss: 0.72 - unsupervised loss: 6.19 - 10.7 sentences per second
+time taken 47793.26
+step 15925 - supervised loss: 0.72 - unsupervised loss: 6.18 - 10.7 sentences per second
+time taken 47869.77
+step 15950 - supervised loss: 0.72 - unsupervised loss: 6.25 - 10.7 sentences per second
+time taken 47946.34
+step 15975 - supervised loss: 0.72 - unsupervised loss: 6.21 - 10.7 sentences per second
+time taken 48022.00
+step 16000 - supervised loss: 0.72 - unsupervised loss: 6.24 - 10.7 sentences per second
+time taken 48103.82
+
+================================================================================
+EVAL ON DEV (default_model)
+================================================================================
+CHUNK: precision: 99.20 - recall: 99.23 - f1: 99.21 - loss: 0.11
+New best model! Saving...
+
+
+
+
+
+
+
+
+
