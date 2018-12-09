@@ -1,0 +1,584 @@
+Epoch 1/700, sup-train_cost = 663.240,unsup-train_cost = 0.000, test_cer = 0.000, time = 152.264
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 2/700, sup-train_cost = 528.174,unsup-train_cost = 0.000, test_cer = 0.000, time = 142.003
+Epoch 3/700, sup-train_cost = 501.580,unsup-train_cost = 0.000, test_cer = 0.000, time = 142.578
+Epoch 4/700, sup-train_cost = 482.527,unsup-train_cost = 0.000, test_cer = 0.000, time = 137.581
+Epoch 5/700, sup-train_cost = 470.652,unsup-train_cost = 0.000, test_cer = 0.000, time = 139.746
+Epoch 6/700, sup-train_cost = 453.539,unsup-train_cost = 0.000, test_cer = 0.000, time = 142.862
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 7/700, sup-train_cost = 435.306,unsup-train_cost = 0.000, test_cer = 0.000, time = 140.496
+Epoch 8/700, sup-train_cost = 424.443,unsup-train_cost = 0.000, test_cer = 0.000, time = 138.687
+Epoch 9/700, sup-train_cost = 412.901,unsup-train_cost = 0.000, test_cer = 0.000, time = 136.929
+Epoch 10/700, sup-train_cost = 401.959,unsup-train_cost = 0.000, test_cer = 0.000, time = 135.204
+Epoch 11/700, sup-train_cost = 401.052,unsup-train_cost = 0.000, test_cer = 0.000, time = 139.018
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 12/700, sup-train_cost = 386.979,unsup-train_cost = 0.000, test_cer = 0.000, time = 137.737
+Epoch 13/700, sup-train_cost = 386.454,unsup-train_cost = 0.000, test_cer = 0.000, time = 134.564
+Epoch 14/700, sup-train_cost = 380.671,unsup-train_cost = 0.000, test_cer = 0.000, time = 133.795
+Epoch 15/700, sup-train_cost = 372.495,unsup-train_cost = 0.000, test_cer = 0.000, time = 131.811
+Epoch 16/700, sup-train_cost = 370.180,unsup-train_cost = 0.000, test_cer = 0.000, time = 130.896
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 17/700, sup-train_cost = 362.973,unsup-train_cost = 0.000, test_cer = 0.000, time = 132.056
+Epoch 18/700, sup-train_cost = 361.666,unsup-train_cost = 0.000, test_cer = 0.000, time = 130.754
+Epoch 19/700, sup-train_cost = 355.845,unsup-train_cost = 0.000, test_cer = 0.000, time = 127.937
+Epoch 20/700, sup-train_cost = 351.842,unsup-train_cost = 0.000, test_cer = 0.000, time = 129.814
+Epoch 21/700, sup-train_cost = 349.929,unsup-train_cost = 0.000, test_cer = 0.494, time = 155.589
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 22/700, sup-train_cost = 341.337,unsup-train_cost = 0.000, test_cer = 0.497, time = 149.868
+Epoch 23/700, sup-train_cost = 340.782,unsup-train_cost = 0.000, test_cer = 0.474, time = 146.571
+Epoch 24/700, sup-train_cost = 335.329,unsup-train_cost = 0.000, test_cer = 0.477, time = 154.018
+Epoch 25/700, sup-train_cost = 333.918,unsup-train_cost = 0.000, test_cer = 0.466, time = 157.156
+Epoch 26/700, sup-train_cost = 331.597,unsup-train_cost = 0.000, test_cer = 0.466, time = 149.043
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 27/700, sup-train_cost = 325.587,unsup-train_cost = 0.000, test_cer = 0.467, time = 153.222
+Epoch 28/700, sup-train_cost = 325.604,unsup-train_cost = 0.000, test_cer = 0.465, time = 147.867
+Epoch 29/700, sup-train_cost = 321.265,unsup-train_cost = 0.000, test_cer = 0.460, time = 150.956
+Epoch 30/700, sup-train_cost = 317.313,unsup-train_cost = 0.000, test_cer = 0.451, time = 149.033
+Epoch 31/700, sup-train_cost = 317.530,unsup-train_cost = 0.000, test_cer = 0.448, time = 152.469
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 32/700, sup-train_cost = 315.136,unsup-train_cost = 0.000, test_cer = 0.452, time = 144.379
+Epoch 33/700, sup-train_cost = 310.743,unsup-train_cost = 0.000, test_cer = 0.442, time = 152.356
+Epoch 34/700, sup-train_cost = 310.185,unsup-train_cost = 0.000, test_cer = 0.438, time = 157.295
+Epoch 35/700, sup-train_cost = 309.532,unsup-train_cost = 0.000, test_cer = 0.444, time = 146.766
+Epoch 36/700, sup-train_cost = 306.901,unsup-train_cost = 0.000, test_cer = 0.435, time = 151.037
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 37/700, sup-train_cost = 304.567,unsup-train_cost = 0.000, test_cer = 0.430, time = 148.919
+Epoch 38/700, sup-train_cost = 303.762,unsup-train_cost = 0.000, test_cer = 0.441, time = 149.158
+Epoch 39/700, sup-train_cost = 300.090,unsup-train_cost = 0.000, test_cer = 0.427, time = 150.687
+Epoch 40/700, sup-train_cost = 299.430,unsup-train_cost = 0.000, test_cer = 0.429, time = 149.131
+Epoch 41/700, sup-train_cost = 298.853,unsup-train_cost = 0.000, test_cer = 0.426, time = 148.727
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 42/700, sup-train_cost = 295.633,unsup-train_cost = 0.000, test_cer = 0.420, time = 154.848
+Epoch 43/700, sup-train_cost = 299.910,unsup-train_cost = 0.000, test_cer = 0.421, time = 153.910
+Epoch 44/700, sup-train_cost = 292.374,unsup-train_cost = 0.000, test_cer = 0.426, time = 152.956
+Epoch 45/700, sup-train_cost = 293.364,unsup-train_cost = 0.000, test_cer = 0.417, time = 153.925
+Epoch 46/700, sup-train_cost = 294.904,unsup-train_cost = 0.000, test_cer = 0.419, time = 148.666
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 47/700, sup-train_cost = 290.152,unsup-train_cost = 0.000, test_cer = 0.413, time = 149.678
+Epoch 48/700, sup-train_cost = 290.887,unsup-train_cost = 0.000, test_cer = 0.411, time = 151.608
+Epoch 49/700, sup-train_cost = 288.922,unsup-train_cost = 0.000, test_cer = 0.402, time = 155.972
+Epoch 50/700, sup-train_cost = 286.044,unsup-train_cost = 0.000, test_cer = 0.402, time = 154.568
+Epoch 51/700, sup-train_cost = 286.536,unsup-train_cost = 0.000, test_cer = 0.411, time = 157.328
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 52/700, sup-train_cost = 284.657,unsup-train_cost = 0.000, test_cer = 0.412, time = 154.343
+Epoch 53/700, sup-train_cost = 285.985,unsup-train_cost = 0.000, test_cer = 0.405, time = 146.056
+Epoch 54/700, sup-train_cost = 283.029,unsup-train_cost = 0.000, test_cer = 0.395, time = 153.370
+Epoch 55/700, sup-train_cost = 283.387,unsup-train_cost = 0.000, test_cer = 0.404, time = 147.025
+Epoch 56/700, sup-train_cost = 281.349,unsup-train_cost = 0.000, test_cer = 0.408, time = 153.661
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 57/700, sup-train_cost = 277.665,unsup-train_cost = 0.000, test_cer = 0.390, time = 145.778
+Epoch 58/700, sup-train_cost = 275.411,unsup-train_cost = 0.000, test_cer = 0.394, time = 150.248
+Epoch 59/700, sup-train_cost = 278.219,unsup-train_cost = 0.000, test_cer = 0.401, time = 148.897
+Epoch 60/700, sup-train_cost = 275.588,unsup-train_cost = 0.000, test_cer = 0.404, time = 149.772
+Epoch 61/700, sup-train_cost = 272.080,unsup-train_cost = 0.000, test_cer = 0.388, time = 154.284
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 62/700, sup-train_cost = 276.574,unsup-train_cost = 0.000, test_cer = 0.396, time = 159.909
+Epoch 63/700, sup-train_cost = 272.835,unsup-train_cost = 0.000, test_cer = 0.383, time = 154.685
+Epoch 64/700, sup-train_cost = 271.985,unsup-train_cost = 0.000, test_cer = 0.388, time = 154.091
+Epoch 65/700, sup-train_cost = 272.160,unsup-train_cost = 0.000, test_cer = 0.385, time = 149.422
+Epoch 66/700, sup-train_cost = 270.928,unsup-train_cost = 0.000, test_cer = 0.386, time = 151.806
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 67/700, sup-train_cost = 271.501,unsup-train_cost = 0.000, test_cer = 0.388, time = 148.680
+Epoch 68/700, sup-train_cost = 268.671,unsup-train_cost = 0.000, test_cer = 0.383, time = 151.403
+Epoch 69/700, sup-train_cost = 275.902,unsup-train_cost = 0.000, test_cer = 0.388, time = 160.231
+Epoch 70/700, sup-train_cost = 268.573,unsup-train_cost = 0.000, test_cer = 0.391, time = 150.044
+Epoch 71/700, sup-train_cost = 273.915,unsup-train_cost = 0.000, test_cer = 0.391, time = 151.414
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 72/700, sup-train_cost = 265.147,unsup-train_cost = 0.000, test_cer = 0.376, time = 151.359
+Epoch 73/700, sup-train_cost = 265.090,unsup-train_cost = 0.000, test_cer = 0.383, time = 159.054
+Epoch 74/700, sup-train_cost = 264.521,unsup-train_cost = 0.000, test_cer = 0.385, time = 156.651
+Epoch 75/700, sup-train_cost = 262.949,unsup-train_cost = 0.000, test_cer = 0.383, time = 158.629
+Epoch 76/700, sup-train_cost = 266.942,unsup-train_cost = 0.000, test_cer = 0.390, time = 150.026
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 77/700, sup-train_cost = 261.523,unsup-train_cost = 0.000, test_cer = 0.381, time = 151.504
+Epoch 78/700, sup-train_cost = 263.395,unsup-train_cost = 0.000, test_cer = 0.381, time = 149.949
+Epoch 79/700, sup-train_cost = 258.864,unsup-train_cost = 0.000, test_cer = 0.372, time = 150.137
+Epoch 80/700, sup-train_cost = 263.359,unsup-train_cost = 0.000, test_cer = 0.370, time = 153.846
+Epoch 81/700, sup-train_cost = 259.344,unsup-train_cost = 0.000, test_cer = 0.376, time = 157.562
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 82/700, sup-train_cost = 256.864,unsup-train_cost = 0.000, test_cer = 0.381, time = 151.116
+Epoch 83/700, sup-train_cost = 258.283,unsup-train_cost = 0.000, test_cer = 0.365, time = 154.481
+Epoch 84/700, sup-train_cost = 260.809,unsup-train_cost = 0.000, test_cer = 0.376, time = 160.000
+Epoch 85/700, sup-train_cost = 257.152,unsup-train_cost = 0.000, test_cer = 0.377, time = 152.107
+Epoch 86/700, sup-train_cost = 260.489,unsup-train_cost = 0.000, test_cer = 0.367, time = 156.400
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 87/700, sup-train_cost = 259.321,unsup-train_cost = 0.000, test_cer = 0.378, time = 152.558
+Epoch 88/700, sup-train_cost = 257.934,unsup-train_cost = 0.000, test_cer = 0.368, time = 155.070
+Epoch 89/700, sup-train_cost = 256.158,unsup-train_cost = 0.000, test_cer = 0.376, time = 148.828
+Epoch 90/700, sup-train_cost = 257.238,unsup-train_cost = 0.000, test_cer = 0.361, time = 151.124
+Epoch 91/700, sup-train_cost = 254.138,unsup-train_cost = 0.000, test_cer = 0.366, time = 151.702
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 92/700, sup-train_cost = 251.808,unsup-train_cost = 0.000, test_cer = 0.367, time = 154.305
+Epoch 93/700, sup-train_cost = 258.906,unsup-train_cost = 0.000, test_cer = 0.370, time = 155.756
+Epoch 94/700, sup-train_cost = 254.299,unsup-train_cost = 0.000, test_cer = 0.371, time = 152.204
+Epoch 95/700, sup-train_cost = 254.224,unsup-train_cost = 0.000, test_cer = 0.369, time = 160.026
+Epoch 96/700, sup-train_cost = 252.086,unsup-train_cost = 0.000, test_cer = 0.363, time = 161.189
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 97/700, sup-train_cost = 248.682,unsup-train_cost = 0.000, test_cer = 0.367, time = 152.924
+Epoch 98/700, sup-train_cost = 252.844,unsup-train_cost = 0.000, test_cer = 0.366, time = 150.787
+Epoch 99/700, sup-train_cost = 252.463,unsup-train_cost = 0.000, test_cer = 0.365, time = 156.007
+Epoch 100/700, sup-train_cost = 250.013,unsup-train_cost = 0.000, test_cer = 0.367, time = 157.864
+Epoch 101/700, sup-train_cost = 252.159,unsup-train_cost = 0.000, test_cer = 0.369, time = 154.210
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 102/700, sup-train_cost = 251.763,unsup-train_cost = 0.000, test_cer = 0.364, time = 156.717
+Epoch 103/700, sup-train_cost = 251.745,unsup-train_cost = 0.000, test_cer = 0.363, time = 152.288
+Epoch 104/700, sup-train_cost = 249.919,unsup-train_cost = 0.000, test_cer = 0.368, time = 154.129
+Epoch 105/700, sup-train_cost = 243.950,unsup-train_cost = 0.000, test_cer = 0.354, time = 150.586
+Epoch 106/700, sup-train_cost = 248.202,unsup-train_cost = 0.000, test_cer = 0.365, time = 158.530
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 107/700, sup-train_cost = 253.738,unsup-train_cost = 0.000, test_cer = 0.359, time = 157.109
+Epoch 108/700, sup-train_cost = 246.800,unsup-train_cost = 0.000, test_cer = 0.363, time = 161.037
+Epoch 109/700, sup-train_cost = 245.459,unsup-train_cost = 0.000, test_cer = 0.350, time = 158.318
+Epoch 110/700, sup-train_cost = 247.014,unsup-train_cost = 0.000, test_cer = 0.358, time = 155.378
+Epoch 111/700, sup-train_cost = 245.486,unsup-train_cost = 0.000, test_cer = 0.364, time = 148.436
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 112/700, sup-train_cost = 243.654,unsup-train_cost = 0.000, test_cer = 0.356, time = 151.766
+Epoch 113/700, sup-train_cost = 244.485,unsup-train_cost = 0.000, test_cer = 0.363, time = 151.383
+Epoch 114/700, sup-train_cost = 241.683,unsup-train_cost = 0.000, test_cer = 0.348, time = 144.167
+Epoch 115/700, sup-train_cost = 241.424,unsup-train_cost = 0.000, test_cer = 0.360, time = 155.924
+Epoch 116/700, sup-train_cost = 244.670,unsup-train_cost = 0.000, test_cer = 0.364, time = 147.462
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 117/700, sup-train_cost = 242.719,unsup-train_cost = 0.000, test_cer = 0.355, time = 146.627
+Epoch 118/700, sup-train_cost = 242.168,unsup-train_cost = 0.000, test_cer = 0.351, time = 158.410
+Epoch 119/700, sup-train_cost = 244.516,unsup-train_cost = 0.000, test_cer = 0.364, time = 160.230
+Epoch 120/700, sup-train_cost = 244.247,unsup-train_cost = 0.000, test_cer = 0.354, time = 150.851
+Epoch 121/700, sup-train_cost = 243.503,unsup-train_cost = 0.000, test_cer = 0.355, time = 157.848
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 122/700, sup-train_cost = 244.505,unsup-train_cost = 0.000, test_cer = 0.356, time = 150.391
+Epoch 123/700, sup-train_cost = 242.102,unsup-train_cost = 0.000, test_cer = 0.344, time = 151.857
+Epoch 124/700, sup-train_cost = 241.602,unsup-train_cost = 0.000, test_cer = 0.354, time = 154.182
+Epoch 125/700, sup-train_cost = 238.113,unsup-train_cost = 0.000, test_cer = 0.342, time = 149.966
+Epoch 126/700, sup-train_cost = 246.172,unsup-train_cost = 0.000, test_cer = 0.350, time = 155.683
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 127/700, sup-train_cost = 239.957,unsup-train_cost = 0.000, test_cer = 0.344, time = 151.776
+Epoch 128/700, sup-train_cost = 239.509,unsup-train_cost = 0.000, test_cer = 0.362, time = 159.645
+Epoch 129/700, sup-train_cost = 241.333,unsup-train_cost = 0.000, test_cer = 0.351, time = 160.628
+Epoch 130/700, sup-train_cost = 239.206,unsup-train_cost = 0.000, test_cer = 0.355, time = 159.741
+Epoch 131/700, sup-train_cost = 237.844,unsup-train_cost = 0.000, test_cer = 0.347, time = 151.053
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 132/700, sup-train_cost = 238.830,unsup-train_cost = 0.000, test_cer = 0.351, time = 164.721
+Epoch 133/700, sup-train_cost = 235.637,unsup-train_cost = 0.000, test_cer = 0.350, time = 157.109
+Epoch 134/700, sup-train_cost = 238.281,unsup-train_cost = 0.000, test_cer = 0.345, time = 148.847
+Epoch 135/700, sup-train_cost = 238.806,unsup-train_cost = 0.000, test_cer = 0.348, time = 151.003
+Epoch 136/700, sup-train_cost = 237.232,unsup-train_cost = 0.000, test_cer = 0.340, time = 161.718
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 137/700, sup-train_cost = 238.746,unsup-train_cost = 0.000, test_cer = 0.345, time = 154.479
+Epoch 138/700, sup-train_cost = 237.105,unsup-train_cost = 0.000, test_cer = 0.335, time = 149.719
+Epoch 139/700, sup-train_cost = 237.546,unsup-train_cost = 0.000, test_cer = 0.337, time = 149.215
+Epoch 140/700, sup-train_cost = 234.859,unsup-train_cost = 0.000, test_cer = 0.338, time = 153.996
+Epoch 141/700, sup-train_cost = 236.520,unsup-train_cost = 0.000, test_cer = 0.346, time = 155.256
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 142/700, sup-train_cost = 234.086,unsup-train_cost = 0.000, test_cer = 0.347, time = 154.076
+Epoch 143/700, sup-train_cost = 234.512,unsup-train_cost = 0.000, test_cer = 0.355, time = 157.690
+Epoch 144/700, sup-train_cost = 230.420,unsup-train_cost = 0.000, test_cer = 0.339, time = 156.269
+Epoch 145/700, sup-train_cost = 236.714,unsup-train_cost = 0.000, test_cer = 0.348, time = 151.212
+Epoch 146/700, sup-train_cost = 235.681,unsup-train_cost = 0.000, test_cer = 0.347, time = 155.555
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 147/700, sup-train_cost = 232.196,unsup-train_cost = 0.000, test_cer = 0.336, time = 151.668
+Epoch 148/700, sup-train_cost = 236.118,unsup-train_cost = 0.000, test_cer = 0.341, time = 154.115
+Epoch 149/700, sup-train_cost = 233.508,unsup-train_cost = 0.000, test_cer = 0.338, time = 151.000
+Epoch 150/700, sup-train_cost = 231.456,unsup-train_cost = 0.000, test_cer = 0.338, time = 149.883
+Epoch 151/700, sup-train_cost = 234.239,unsup-train_cost = 0.000, test_cer = 0.350, time = 153.901
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 152/700, sup-train_cost = 231.948,unsup-train_cost = 0.000, test_cer = 0.346, time = 150.249
+Epoch 153/700, sup-train_cost = 228.028,unsup-train_cost = 0.000, test_cer = 0.343, time = 148.700
+Epoch 154/700, sup-train_cost = 231.973,unsup-train_cost = 0.000, test_cer = 0.331, time = 155.092
+Epoch 155/700, sup-train_cost = 227.998,unsup-train_cost = 0.000, test_cer = 0.334, time = 155.004
+Epoch 156/700, sup-train_cost = 236.109,unsup-train_cost = 0.000, test_cer = 0.352, time = 159.239
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 157/700, sup-train_cost = 233.293,unsup-train_cost = 0.000, test_cer = 0.340, time = 156.688
+Epoch 158/700, sup-train_cost = 229.404,unsup-train_cost = 0.000, test_cer = 0.347, time = 156.119
+Epoch 159/700, sup-train_cost = 227.370,unsup-train_cost = 0.000, test_cer = 0.337, time = 151.423
+Epoch 160/700, sup-train_cost = 230.905,unsup-train_cost = 0.000, test_cer = 0.343, time = 152.646
+Epoch 161/700, sup-train_cost = 230.903,unsup-train_cost = 0.000, test_cer = 0.336, time = 152.594
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 162/700, sup-train_cost = 229.081,unsup-train_cost = 0.000, test_cer = 0.337, time = 156.123
+Epoch 163/700, sup-train_cost = 235.226,unsup-train_cost = 0.000, test_cer = 0.348, time = 151.474
+Epoch 164/700, sup-train_cost = 230.501,unsup-train_cost = 0.000, test_cer = 0.335, time = 147.493
+Epoch 165/700, sup-train_cost = 230.093,unsup-train_cost = 0.000, test_cer = 0.343, time = 148.449
+Epoch 166/700, sup-train_cost = 229.604,unsup-train_cost = 0.000, test_cer = 0.345, time = 154.124
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 167/700, sup-train_cost = 228.104,unsup-train_cost = 0.000, test_cer = 0.343, time = 159.974
+Epoch 168/700, sup-train_cost = 230.423,unsup-train_cost = 0.000, test_cer = 0.339, time = 147.884
+Epoch 169/700, sup-train_cost = 230.942,unsup-train_cost = 0.000, test_cer = 0.337, time = 148.069
+Epoch 170/700, sup-train_cost = 231.022,unsup-train_cost = 0.000, test_cer = 0.338, time = 152.139
+Epoch 171/700, sup-train_cost = 228.377,unsup-train_cost = 0.000, test_cer = 0.331, time = 149.544
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 172/700, sup-train_cost = 225.743,unsup-train_cost = 0.000, test_cer = 0.342, time = 155.318
+Epoch 173/700, sup-train_cost = 228.351,unsup-train_cost = 0.000, test_cer = 0.334, time = 155.008
+Epoch 174/700, sup-train_cost = 225.897,unsup-train_cost = 0.000, test_cer = 0.341, time = 150.263
+Epoch 175/700, sup-train_cost = 230.867,unsup-train_cost = 0.000, test_cer = 0.338, time = 159.010
+Epoch 176/700, sup-train_cost = 228.893,unsup-train_cost = 0.000, test_cer = 0.336, time = 158.668
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 177/700, sup-train_cost = 225.994,unsup-train_cost = 0.000, test_cer = 0.330, time = 149.464
+Epoch 178/700, sup-train_cost = 225.090,unsup-train_cost = 0.000, test_cer = 0.340, time = 152.737
+Epoch 179/700, sup-train_cost = 224.976,unsup-train_cost = 0.000, test_cer = 0.342, time = 159.112
+Epoch 180/700, sup-train_cost = 227.474,unsup-train_cost = 0.000, test_cer = 0.335, time = 150.642
+Epoch 181/700, sup-train_cost = 229.782,unsup-train_cost = 0.000, test_cer = 0.338, time = 152.645
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 182/700, sup-train_cost = 228.685,unsup-train_cost = 0.000, test_cer = 0.337, time = 151.065
+Epoch 183/700, sup-train_cost = 226.621,unsup-train_cost = 0.000, test_cer = 0.329, time = 155.585
+Epoch 184/700, sup-train_cost = 228.101,unsup-train_cost = 0.000, test_cer = 0.337, time = 146.401
+Epoch 185/700, sup-train_cost = 226.024,unsup-train_cost = 0.000, test_cer = 0.326, time = 155.384
+Epoch 186/700, sup-train_cost = 227.433,unsup-train_cost = 0.000, test_cer = 0.332, time = 158.458
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 187/700, sup-train_cost = 225.701,unsup-train_cost = 0.000, test_cer = 0.346, time = 158.468
+Epoch 188/700, sup-train_cost = 225.951,unsup-train_cost = 0.000, test_cer = 0.338, time = 153.506
+Epoch 189/700, sup-train_cost = 227.046,unsup-train_cost = 0.000, test_cer = 0.337, time = 159.251
+Epoch 190/700, sup-train_cost = 221.153,unsup-train_cost = 0.000, test_cer = 0.325, time = 145.335
+Epoch 191/700, sup-train_cost = 224.606,unsup-train_cost = 0.000, test_cer = 0.333, time = 155.140
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 192/700, sup-train_cost = 223.271,unsup-train_cost = 0.000, test_cer = 0.332, time = 155.034
+Epoch 193/700, sup-train_cost = 222.764,unsup-train_cost = 0.000, test_cer = 0.327, time = 154.751
+Epoch 194/700, sup-train_cost = 222.711,unsup-train_cost = 0.000, test_cer = 0.324, time = 153.669
+Epoch 195/700, sup-train_cost = 222.152,unsup-train_cost = 0.000, test_cer = 0.342, time = 156.119
+Epoch 196/700, sup-train_cost = 220.422,unsup-train_cost = 0.000, test_cer = 0.333, time = 164.071
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 197/700, sup-train_cost = 222.216,unsup-train_cost = 0.000, test_cer = 0.328, time = 151.720
+Epoch 198/700, sup-train_cost = 222.405,unsup-train_cost = 0.000, test_cer = 0.334, time = 159.317
+Epoch 199/700, sup-train_cost = 226.602,unsup-train_cost = 0.000, test_cer = 0.326, time = 157.052
+Epoch 200/700, sup-train_cost = 221.280,unsup-train_cost = 0.000, test_cer = 0.332, time = 146.803
+Epoch 201/700, sup-train_cost = 223.372,unsup-train_cost = 0.000, test_cer = 0.338, time = 153.260
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 202/700, sup-train_cost = 222.023,unsup-train_cost = 0.000, test_cer = 0.334, time = 155.270
+Epoch 203/700, sup-train_cost = 226.707,unsup-train_cost = 0.000, test_cer = 0.331, time = 151.173
+Epoch 204/700, sup-train_cost = 220.526,unsup-train_cost = 0.000, test_cer = 0.322, time = 151.760
+Epoch 205/700, sup-train_cost = 225.678,unsup-train_cost = 0.000, test_cer = 0.337, time = 147.982
+Epoch 206/700, sup-train_cost = 220.958,unsup-train_cost = 0.000, test_cer = 0.319, time = 152.467
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 207/700, sup-train_cost = 220.239,unsup-train_cost = 0.000, test_cer = 0.332, time = 157.398
+Epoch 208/700, sup-train_cost = 220.353,unsup-train_cost = 0.000, test_cer = 0.326, time = 154.265
+Epoch 209/700, sup-train_cost = 220.540,unsup-train_cost = 0.000, test_cer = 0.338, time = 147.974
+Epoch 210/700, sup-train_cost = 217.160,unsup-train_cost = 0.000, test_cer = 0.325, time = 149.939
+Epoch 211/700, sup-train_cost = 215.613,unsup-train_cost = 0.000, test_cer = 0.328, time = 148.460
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 212/700, sup-train_cost = 219.541,unsup-train_cost = 0.000, test_cer = 0.322, time = 158.754
+Epoch 213/700, sup-train_cost = 216.808,unsup-train_cost = 0.000, test_cer = 0.320, time = 164.212
+Epoch 214/700, sup-train_cost = 217.013,unsup-train_cost = 0.000, test_cer = 0.322, time = 169.937
+Epoch 215/700, sup-train_cost = 220.846,unsup-train_cost = 0.000, test_cer = 0.340, time = 163.093
+Epoch 216/700, sup-train_cost = 219.636,unsup-train_cost = 0.000, test_cer = 0.323, time = 159.246
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 217/700, sup-train_cost = 221.706,unsup-train_cost = 0.000, test_cer = 0.336, time = 152.665
+Epoch 218/700, sup-train_cost = 217.716,unsup-train_cost = 0.000, test_cer = 0.318, time = 154.531
+Epoch 219/700, sup-train_cost = 221.905,unsup-train_cost = 0.000, test_cer = 0.334, time = 157.472
+Epoch 220/700, sup-train_cost = 221.262,unsup-train_cost = 0.000, test_cer = 0.329, time = 159.804
+Epoch 221/700, sup-train_cost = 219.346,unsup-train_cost = 0.000, test_cer = 0.317, time = 156.017
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 222/700, sup-train_cost = 220.675,unsup-train_cost = 0.000, test_cer = 0.318, time = 165.187
+Epoch 223/700, sup-train_cost = 218.221,unsup-train_cost = 0.000, test_cer = 0.319, time = 165.946
+Epoch 224/700, sup-train_cost = 219.025,unsup-train_cost = 0.000, test_cer = 0.320, time = 168.966
+Epoch 225/700, sup-train_cost = 217.652,unsup-train_cost = 0.000, test_cer = 0.314, time = 163.723
+Epoch 226/700, sup-train_cost = 215.391,unsup-train_cost = 0.000, test_cer = 0.321, time = 165.145
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 227/700, sup-train_cost = 216.023,unsup-train_cost = 0.000, test_cer = 0.314, time = 164.824
+Epoch 228/700, sup-train_cost = 220.861,unsup-train_cost = 0.000, test_cer = 0.316, time = 159.834
+Epoch 229/700, sup-train_cost = 214.874,unsup-train_cost = 0.000, test_cer = 0.322, time = 157.183
+Epoch 230/700, sup-train_cost = 220.645,unsup-train_cost = 0.000, test_cer = 0.326, time = 160.446
+Epoch 231/700, sup-train_cost = 212.731,unsup-train_cost = 0.000, test_cer = 0.313, time = 160.023
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 232/700, sup-train_cost = 212.411,unsup-train_cost = 0.000, test_cer = 0.316, time = 156.367
+Epoch 233/700, sup-train_cost = 216.745,unsup-train_cost = 0.000, test_cer = 0.309, time = 165.328
+Epoch 234/700, sup-train_cost = 214.575,unsup-train_cost = 0.000, test_cer = 0.316, time = 167.989
+Epoch 235/700, sup-train_cost = 216.487,unsup-train_cost = 0.000, test_cer = 0.332, time = 159.711
+Epoch 236/700, sup-train_cost = 214.450,unsup-train_cost = 0.000, test_cer = 0.322, time = 163.833
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 237/700, sup-train_cost = 210.443,unsup-train_cost = 0.000, test_cer = 0.325, time = 156.645
+Epoch 238/700, sup-train_cost = 212.855,unsup-train_cost = 0.000, test_cer = 0.333, time = 158.220
+Epoch 239/700, sup-train_cost = 215.681,unsup-train_cost = 0.000, test_cer = 0.330, time = 167.995
+Epoch 240/700, sup-train_cost = 213.912,unsup-train_cost = 0.000, test_cer = 0.320, time = 157.537
+Epoch 241/700, sup-train_cost = 212.938,unsup-train_cost = 0.000, test_cer = 0.309, time = 165.393
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 242/700, sup-train_cost = 212.897,unsup-train_cost = 0.000, test_cer = 0.321, time = 162.944
+Epoch 243/700, sup-train_cost = 211.474,unsup-train_cost = 0.000, test_cer = 0.314, time = 155.940
+Epoch 244/700, sup-train_cost = 219.990,unsup-train_cost = 0.000, test_cer = 0.328, time = 155.492
+Epoch 245/700, sup-train_cost = 211.945,unsup-train_cost = 0.000, test_cer = 0.320, time = 151.126
+Epoch 246/700, sup-train_cost = 214.866,unsup-train_cost = 0.000, test_cer = 0.314, time = 152.401
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 247/700, sup-train_cost = 214.897,unsup-train_cost = 0.000, test_cer = 0.310, time = 154.854
+Epoch 248/700, sup-train_cost = 214.613,unsup-train_cost = 0.000, test_cer = 0.314, time = 155.704
+Epoch 249/700, sup-train_cost = 215.411,unsup-train_cost = 0.000, test_cer = 0.324, time = 157.594
+Epoch 250/700, sup-train_cost = 212.996,unsup-train_cost = 0.000, test_cer = 0.330, time = 151.619
+Epoch 251/700, sup-train_cost = 211.212,unsup-train_cost = 0.000, test_cer = 0.328, time = 170.046
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Model saved in path: ./model_cvt_same_batch_ssp_sup0/model.ckpt
+Epoch 252/700, sup-train_cost = 208.711,unsup-train_cost = 1611.026, test_cer = 0.307, time = 647.471
+Epoch 253/700, sup-train_cost = 204.936,unsup-train_cost = 1026.457, test_cer = 0.306, time = 625.368
+Epoch 254/700, sup-train_cost = 203.579,unsup-train_cost = 922.191, test_cer = 0.307, time = 624.183
+Epoch 255/700, sup-train_cost = 203.280,unsup-train_cost = 874.037, test_cer = 0.305, time = 639.351
+Epoch 256/700, sup-train_cost = 202.501,unsup-train_cost = 849.644, test_cer = 0.308, time = 629.772
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 257/700, sup-train_cost = 203.100,unsup-train_cost = 820.117, test_cer = 0.307, time = 638.326
+Epoch 258/700, sup-train_cost = 203.067,unsup-train_cost = 791.747, test_cer = 0.307, time = 628.621
+Epoch 259/700, sup-train_cost = 203.042,unsup-train_cost = 768.114, test_cer = 0.306, time = 600.721
+Epoch 260/700, sup-train_cost = 203.360,unsup-train_cost = 747.717, test_cer = 0.306, time = 547.625
+Epoch 261/700, sup-train_cost = 203.024,unsup-train_cost = 726.482, test_cer = 0.306, time = 552.898
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 262/700, sup-train_cost = 202.521,unsup-train_cost = 692.674, test_cer = 0.307, time = 541.425
+Epoch 263/700, sup-train_cost = 203.255,unsup-train_cost = 676.291, test_cer = 0.306, time = 558.101
+Epoch 264/700, sup-train_cost = 202.828,unsup-train_cost = 659.784, test_cer = 0.305, time = 604.434
+Epoch 265/700, sup-train_cost = 201.108,unsup-train_cost = 644.873, test_cer = 0.306, time = 604.847
+Epoch 266/700, sup-train_cost = 201.193,unsup-train_cost = 639.504, test_cer = 0.303, time = 604.984
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 267/700, sup-train_cost = 200.886,unsup-train_cost = 626.754, test_cer = 0.306, time = 604.230
+Epoch 268/700, sup-train_cost = 199.736,unsup-train_cost = 622.880, test_cer = 0.303, time = 599.219
+Epoch 269/700, sup-train_cost = 200.709,unsup-train_cost = 614.313, test_cer = 0.307, time = 742.035
+Epoch 270/700, sup-train_cost = 199.598,unsup-train_cost = 597.137, test_cer = 0.304, time = 634.064
+Epoch 271/700, sup-train_cost = 198.652,unsup-train_cost = 590.725, test_cer = 0.305, time = 564.105
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 272/700, sup-train_cost = 198.861,unsup-train_cost = 572.457, test_cer = 0.304, time = 576.360
+Epoch 273/700, sup-train_cost = 199.101,unsup-train_cost = 567.741, test_cer = 0.307, time = 579.577
+Epoch 274/700, sup-train_cost = 198.407,unsup-train_cost = 562.241, test_cer = 0.306, time = 575.780
+Epoch 275/700, sup-train_cost = 198.545,unsup-train_cost = 558.747, test_cer = 0.304, time = 572.903
+Epoch 276/700, sup-train_cost = 197.338,unsup-train_cost = 554.427, test_cer = 0.306, time = 539.024
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 277/700, sup-train_cost = 197.627,unsup-train_cost = 550.641, test_cer = 0.305, time = 537.473
+Epoch 278/700, sup-train_cost = 197.447,unsup-train_cost = 541.164, test_cer = 0.305, time = 511.882
+Epoch 279/700, sup-train_cost = 197.512,unsup-train_cost = 538.501, test_cer = 0.306, time = 506.582
+Epoch 280/700, sup-train_cost = 196.479,unsup-train_cost = 527.571, test_cer = 0.308, time = 518.397
+Epoch 281/700, sup-train_cost = 196.412,unsup-train_cost = 532.073, test_cer = 0.307, time = 531.682
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 282/700, sup-train_cost = 195.734,unsup-train_cost = 529.205, test_cer = 0.302, time = 524.397
+Epoch 283/700, sup-train_cost = 196.992,unsup-train_cost = 520.896, test_cer = 0.304, time = 524.916
+Epoch 284/700, sup-train_cost = 195.971,unsup-train_cost = 516.547, test_cer = 0.306, time = 522.737
+Epoch 285/700, sup-train_cost = 195.923,unsup-train_cost = 511.627, test_cer = 0.305, time = 512.146
+Epoch 286/700, sup-train_cost = 196.347,unsup-train_cost = 509.909, test_cer = 0.306, time = 605.383
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 287/700, sup-train_cost = 195.794,unsup-train_cost = 506.866, test_cer = 0.302, time = 724.843
+Epoch 288/700, sup-train_cost = 196.326,unsup-train_cost = 501.321, test_cer = 0.301, time = 769.427
+Epoch 289/700, sup-train_cost = 196.217,unsup-train_cost = 498.038, test_cer = 0.300, time = 780.830
+Epoch 290/700, sup-train_cost = 196.314,unsup-train_cost = 491.073, test_cer = 0.300, time = 745.293
+Epoch 291/700, sup-train_cost = 195.159,unsup-train_cost = 492.207, test_cer = 0.307, time = 795.294
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 292/700, sup-train_cost = 196.694,unsup-train_cost = 487.019, test_cer = 0.302, time = 770.889
+Epoch 293/700, sup-train_cost = 195.982,unsup-train_cost = 480.276, test_cer = 0.303, time = 716.739
+Epoch 294/700, sup-train_cost = 197.772,unsup-train_cost = 483.342, test_cer = 0.303, time = 558.723
+Epoch 295/700, sup-train_cost = 196.144,unsup-train_cost = 481.010, test_cer = 0.307, time = 557.265
+Epoch 296/700, sup-train_cost = 197.033,unsup-train_cost = 479.555, test_cer = 0.300, time = 564.296
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 297/700, sup-train_cost = 198.067,unsup-train_cost = 475.703, test_cer = 0.304, time = 573.818
+Epoch 298/700, sup-train_cost = 196.715,unsup-train_cost = 471.128, test_cer = 0.306, time = 537.727
+Epoch 299/700, sup-train_cost = 197.194,unsup-train_cost = 463.736, test_cer = 0.301, time = 523.622
+Epoch 300/700, sup-train_cost = 197.606,unsup-train_cost = 465.977, test_cer = 0.303, time = 567.793
+Epoch 301/700, sup-train_cost = 196.357,unsup-train_cost = 463.478, test_cer = 0.301, time = 553.427
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 302/700, sup-train_cost = 196.907,unsup-train_cost = 462.030, test_cer = 0.303, time = 574.017
+Epoch 303/700, sup-train_cost = 197.809,unsup-train_cost = 459.664, test_cer = 0.309, time = 522.092
+Epoch 304/700, sup-train_cost = 196.413,unsup-train_cost = 455.407, test_cer = 0.304, time = 557.846
+Epoch 305/700, sup-train_cost = 197.927,unsup-train_cost = 452.687, test_cer = 0.306, time = 553.667
+Epoch 306/700, sup-train_cost = 197.188,unsup-train_cost = 448.660, test_cer = 0.303, time = 516.841
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 307/700, sup-train_cost = 195.483,unsup-train_cost = 447.650, test_cer = 0.304, time = 548.796
+Epoch 308/700, sup-train_cost = 195.230,unsup-train_cost = 445.337, test_cer = 0.306, time = 542.763
+Epoch 309/700, sup-train_cost = 195.322,unsup-train_cost = 442.621, test_cer = 0.301, time = 556.507
+Epoch 310/700, sup-train_cost = 196.700,unsup-train_cost = 442.547, test_cer = 0.303, time = 529.454
+Epoch 311/700, sup-train_cost = 197.459,unsup-train_cost = 439.293, test_cer = 0.301, time = 547.323
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 312/700, sup-train_cost = 196.804,unsup-train_cost = 435.583, test_cer = 0.303, time = 551.081
+Epoch 313/700, sup-train_cost = 195.882,unsup-train_cost = 435.424, test_cer = 0.299, time = 559.627
+Epoch 314/700, sup-train_cost = 195.661,unsup-train_cost = 432.171, test_cer = 0.301, time = 553.513
+Epoch 315/700, sup-train_cost = 196.481,unsup-train_cost = 436.402, test_cer = 0.303, time = 579.573
+Epoch 316/700, sup-train_cost = 196.043,unsup-train_cost = 429.103, test_cer = 0.305, time = 564.256
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 317/700, sup-train_cost = 196.530,unsup-train_cost = 426.848, test_cer = 0.302, time = 562.107
+Epoch 318/700, sup-train_cost = 196.294,unsup-train_cost = 422.094, test_cer = 0.301, time = 555.840
+Epoch 319/700, sup-train_cost = 195.348,unsup-train_cost = 423.714, test_cer = 0.302, time = 562.916
+Epoch 320/700, sup-train_cost = 195.933,unsup-train_cost = 421.393, test_cer = 0.296, time = 568.223
+Epoch 321/700, sup-train_cost = 195.014,unsup-train_cost = 421.199, test_cer = 0.296, time = 569.812
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 322/700, sup-train_cost = 197.033,unsup-train_cost = 419.887, test_cer = 0.298, time = 573.408
+Epoch 323/700, sup-train_cost = 195.980,unsup-train_cost = 421.167, test_cer = 0.303, time = 565.927
+Epoch 324/700, sup-train_cost = 196.415,unsup-train_cost = 414.362, test_cer = 0.300, time = 556.090
+Epoch 325/700, sup-train_cost = 195.314,unsup-train_cost = 413.677, test_cer = 0.298, time = 551.285
+Epoch 326/700, sup-train_cost = 196.232,unsup-train_cost = 414.181, test_cer = 0.300, time = 573.811
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 327/700, sup-train_cost = 193.935,unsup-train_cost = 411.724, test_cer = 0.301, time = 682.200
+Epoch 328/700, sup-train_cost = 194.632,unsup-train_cost = 411.961, test_cer = 0.302, time = 668.120
+Epoch 329/700, sup-train_cost = 192.541,unsup-train_cost = 409.227, test_cer = 0.298, time = 667.799
+Epoch 330/700, sup-train_cost = 192.257,unsup-train_cost = 412.760, test_cer = 0.297, time = 676.024
+Epoch 331/700, sup-train_cost = 192.284,unsup-train_cost = 412.608, test_cer = 0.300, time = 677.755
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 332/700, sup-train_cost = 191.453,unsup-train_cost = 411.416, test_cer = 0.299, time = 620.152
+Epoch 333/700, sup-train_cost = 191.453,unsup-train_cost = 410.203, test_cer = 0.297, time = 571.687
+Epoch 334/700, sup-train_cost = 192.041,unsup-train_cost = 409.662, test_cer = 0.299, time = 564.304
+Epoch 335/700, sup-train_cost = 192.638,unsup-train_cost = 408.221, test_cer = 0.302, time = 547.862
+Epoch 336/700, sup-train_cost = 192.139,unsup-train_cost = 406.122, test_cer = 0.298, time = 542.199
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 337/700, sup-train_cost = 191.315,unsup-train_cost = 406.810, test_cer = 0.299, time = 532.084
+Epoch 338/700, sup-train_cost = 190.526,unsup-train_cost = 401.548, test_cer = 0.297, time = 526.110
+Epoch 339/700, sup-train_cost = 191.516,unsup-train_cost = 400.138, test_cer = 0.298, time = 530.969
+Epoch 340/700, sup-train_cost = 192.463,unsup-train_cost = 401.113, test_cer = 0.301, time = 542.920
+Epoch 341/700, sup-train_cost = 192.636,unsup-train_cost = 400.757, test_cer = 0.299, time = 522.631
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 342/700, sup-train_cost = 191.985,unsup-train_cost = 398.574, test_cer = 0.298, time = 530.464
+Epoch 343/700, sup-train_cost = 191.794,unsup-train_cost = 398.767, test_cer = 0.295, time = 542.005
+Epoch 344/700, sup-train_cost = 191.063,unsup-train_cost = 401.714, test_cer = 0.298, time = 537.392
+Epoch 345/700, sup-train_cost = 193.885,unsup-train_cost = 401.303, test_cer = 0.295, time = 551.848
+Epoch 346/700, sup-train_cost = 191.800,unsup-train_cost = 399.131, test_cer = 0.296, time = 532.368
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 347/700, sup-train_cost = 192.853,unsup-train_cost = 399.946, test_cer = 0.298, time = 525.549
+Epoch 348/700, sup-train_cost = 192.387,unsup-train_cost = 397.096, test_cer = 0.296, time = 538.885
+Epoch 349/700, sup-train_cost = 191.445,unsup-train_cost = 393.771, test_cer = 0.297, time = 533.299
+Epoch 350/700, sup-train_cost = 193.601,unsup-train_cost = 393.538, test_cer = 0.295, time = 541.541
+Epoch 351/700, sup-train_cost = 191.603,unsup-train_cost = 394.062, test_cer = 0.296, time = 531.318
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 352/700, sup-train_cost = 191.753,unsup-train_cost = 393.555, test_cer = 0.295, time = 536.593
+Epoch 353/700, sup-train_cost = 190.815,unsup-train_cost = 388.820, test_cer = 0.300, time = 529.153
+Epoch 354/700, sup-train_cost = 193.064,unsup-train_cost = 390.836, test_cer = 0.299, time = 522.307
+Epoch 355/700, sup-train_cost = 193.001,unsup-train_cost = 389.937, test_cer = 0.313, time = 528.904
+Epoch 356/700, sup-train_cost = 193.557,unsup-train_cost = 392.112, test_cer = 0.300, time = 544.809
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 357/700, sup-train_cost = 190.221,unsup-train_cost = 389.563, test_cer = 0.298, time = 522.641
+Epoch 358/700, sup-train_cost = 193.203,unsup-train_cost = 389.932, test_cer = 0.296, time = 525.962
+Epoch 359/700, sup-train_cost = 192.544,unsup-train_cost = 388.044, test_cer = 0.297, time = 532.485
+Epoch 360/700, sup-train_cost = 192.850,unsup-train_cost = 388.927, test_cer = 0.296, time = 536.635
+Epoch 361/700, sup-train_cost = 192.037,unsup-train_cost = 388.796, test_cer = 0.298, time = 532.866
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 362/700, sup-train_cost = 192.420,unsup-train_cost = 386.001, test_cer = 0.298, time = 533.858
+Epoch 363/700, sup-train_cost = 192.194,unsup-train_cost = 386.835, test_cer = 0.295, time = 529.316
+Epoch 364/700, sup-train_cost = 191.596,unsup-train_cost = 383.072, test_cer = 0.295, time = 529.626
+Epoch 365/700, sup-train_cost = 190.039,unsup-train_cost = 386.071, test_cer = 0.294, time = 535.833
+Epoch 366/700, sup-train_cost = 191.708,unsup-train_cost = 382.104, test_cer = 0.295, time = 532.623
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 367/700, sup-train_cost = 191.727,unsup-train_cost = 381.728, test_cer = 0.295, time = 536.428
+Epoch 368/700, sup-train_cost = 191.974,unsup-train_cost = 381.106, test_cer = 0.297, time = 543.273
+Epoch 369/700, sup-train_cost = 191.018,unsup-train_cost = 381.680, test_cer = 0.293, time = 554.240
+Epoch 370/700, sup-train_cost = 190.995,unsup-train_cost = 380.836, test_cer = 0.291, time = 526.163
+Epoch 371/700, sup-train_cost = 192.636,unsup-train_cost = 384.384, test_cer = 0.296, time = 540.945
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 372/700, sup-train_cost = 192.203,unsup-train_cost = 381.548, test_cer = 0.295, time = 536.268
+Epoch 373/700, sup-train_cost = 191.378,unsup-train_cost = 380.030, test_cer = 0.294, time = 536.347
+Epoch 374/700, sup-train_cost = 193.721,unsup-train_cost = 379.296, test_cer = 0.309, time = 522.908
+Epoch 375/700, sup-train_cost = 192.011,unsup-train_cost = 379.267, test_cer = 0.299, time = 540.183
+Epoch 376/700, sup-train_cost = 192.904,unsup-train_cost = 381.577, test_cer = 0.303, time = 535.519
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 377/700, sup-train_cost = 189.529,unsup-train_cost = 375.648, test_cer = 0.294, time = 549.777
+Epoch 378/700, sup-train_cost = 190.093,unsup-train_cost = 378.417, test_cer = 0.296, time = 543.523
+Epoch 379/700, sup-train_cost = 189.195,unsup-train_cost = 375.127, test_cer = 0.293, time = 551.899
+Epoch 380/700, sup-train_cost = 190.514,unsup-train_cost = 374.743, test_cer = 0.298, time = 549.528
+Epoch 381/700, sup-train_cost = 189.438,unsup-train_cost = 374.506, test_cer = 0.296, time = 489.440
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 382/700, sup-train_cost = 189.364,unsup-train_cost = 374.191, test_cer = 0.293, time = 444.973
+Epoch 383/700, sup-train_cost = 191.229,unsup-train_cost = 377.321, test_cer = 0.293, time = 441.148
+Epoch 384/700, sup-train_cost = 189.350,unsup-train_cost = 372.478, test_cer = 0.296, time = 439.813
+Epoch 385/700, sup-train_cost = 189.650,unsup-train_cost = 371.579, test_cer = 0.297, time = 436.303
+Epoch 386/700, sup-train_cost = 189.521,unsup-train_cost = 371.164, test_cer = 0.299, time = 436.231
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 387/700, sup-train_cost = 189.437,unsup-train_cost = 369.665, test_cer = 0.298, time = 434.969
+Epoch 388/700, sup-train_cost = 188.699,unsup-train_cost = 371.148, test_cer = 0.293, time = 435.210
+Epoch 389/700, sup-train_cost = 188.691,unsup-train_cost = 373.454, test_cer = 0.297, time = 436.860
+Epoch 390/700, sup-train_cost = 187.678,unsup-train_cost = 370.744, test_cer = 0.302, time = 439.027
+Epoch 391/700, sup-train_cost = 189.372,unsup-train_cost = 368.341, test_cer = 0.296, time = 428.766
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 392/700, sup-train_cost = 189.185,unsup-train_cost = 367.223, test_cer = 0.305, time = 432.506
+Epoch 393/700, sup-train_cost = 189.339,unsup-train_cost = 370.771, test_cer = 0.296, time = 436.776
+Epoch 394/700, sup-train_cost = 187.814,unsup-train_cost = 368.751, test_cer = 0.290, time = 433.134
+Epoch 395/700, sup-train_cost = 187.512,unsup-train_cost = 370.709, test_cer = 0.297, time = 436.965
+Epoch 396/700, sup-train_cost = 189.869,unsup-train_cost = 371.367, test_cer = 0.290, time = 434.488
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 397/700, sup-train_cost = 188.001,unsup-train_cost = 367.622, test_cer = 0.297, time = 433.029
+Epoch 398/700, sup-train_cost = 187.590,unsup-train_cost = 367.554, test_cer = 0.296, time = 461.416
+Epoch 399/700, sup-train_cost = 187.309,unsup-train_cost = 369.497, test_cer = 0.293, time = 459.483
+Epoch 400/700, sup-train_cost = 187.343,unsup-train_cost = 366.535, test_cer = 0.294, time = 464.181
+Epoch 401/700, sup-train_cost = 185.951,unsup-train_cost = 366.505, test_cer = 0.289, time = 503.953
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 402/700, sup-train_cost = 185.471,unsup-train_cost = 368.646, test_cer = 0.299, time = 473.305
+Epoch 403/700, sup-train_cost = 185.906,unsup-train_cost = 367.973, test_cer = 0.294, time = 482.860
+Epoch 404/700, sup-train_cost = 186.213,unsup-train_cost = 367.925, test_cer = 0.291, time = 482.658
+Epoch 405/700, sup-train_cost = 184.640,unsup-train_cost = 367.881, test_cer = 0.293, time = 491.098
+Epoch 406/700, sup-train_cost = 185.856,unsup-train_cost = 364.068, test_cer = 0.297, time = 864.410
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 407/700, sup-train_cost = 185.595,unsup-train_cost = 366.096, test_cer = 0.290, time = 1156.074
+Epoch 408/700, sup-train_cost = 185.627,unsup-train_cost = 365.132, test_cer = 0.294, time = 1112.506
+Epoch 409/700, sup-train_cost = 186.048,unsup-train_cost = 363.489, test_cer = 0.304, time = 1064.069
+Epoch 410/700, sup-train_cost = 189.547,unsup-train_cost = 366.198, test_cer = 0.296, time = 906.189
+Epoch 411/700, sup-train_cost = 190.205,unsup-train_cost = 364.117, test_cer = 0.289, time = 686.090
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 412/700, sup-train_cost = 186.361,unsup-train_cost = 363.806, test_cer = 0.295, time = 534.657
+Epoch 413/700, sup-train_cost = 188.678,unsup-train_cost = 364.611, test_cer = 0.304, time = 436.773
+Epoch 414/700, sup-train_cost = 188.033,unsup-train_cost = 365.391, test_cer = 0.297, time = 438.958
+Epoch 415/700, sup-train_cost = 187.912,unsup-train_cost = 361.654, test_cer = 0.294, time = 433.231
+Epoch 416/700, sup-train_cost = 186.430,unsup-train_cost = 363.199, test_cer = 0.291, time = 438.039
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 417/700, sup-train_cost = 187.926,unsup-train_cost = 360.847, test_cer = 0.303, time = 438.570
+Epoch 418/700, sup-train_cost = 188.073,unsup-train_cost = 362.967, test_cer = 0.291, time = 433.988
+Epoch 419/700, sup-train_cost = 184.477,unsup-train_cost = 361.500, test_cer = 0.295, time = 427.672
+Epoch 420/700, sup-train_cost = 185.585,unsup-train_cost = 360.321, test_cer = 0.296, time = 419.523
+Epoch 421/700, sup-train_cost = 185.039,unsup-train_cost = 359.269, test_cer = 0.294, time = 423.708
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 422/700, sup-train_cost = 185.737,unsup-train_cost = 360.889, test_cer = 0.290, time = 420.819
+Epoch 423/700, sup-train_cost = 185.872,unsup-train_cost = 360.269, test_cer = 0.291, time = 427.609
+Epoch 424/700, sup-train_cost = 185.344,unsup-train_cost = 358.063, test_cer = 0.295, time = 428.693
+Epoch 425/700, sup-train_cost = 186.465,unsup-train_cost = 359.936, test_cer = 0.298, time = 419.504
+Epoch 426/700, sup-train_cost = 187.793,unsup-train_cost = 359.830, test_cer = 0.299, time = 428.225
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 427/700, sup-train_cost = 185.798,unsup-train_cost = 361.267, test_cer = 0.291, time = 430.877
+Epoch 428/700, sup-train_cost = 184.537,unsup-train_cost = 357.205, test_cer = 0.291, time = 419.335
+Epoch 429/700, sup-train_cost = 188.722,unsup-train_cost = 359.507, test_cer = 0.293, time = 423.481
+Epoch 430/700, sup-train_cost = 188.841,unsup-train_cost = 359.757, test_cer = 0.293, time = 423.861
+Epoch 431/700, sup-train_cost = 186.817,unsup-train_cost = 358.334, test_cer = 0.290, time = 425.175
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 432/700, sup-train_cost = 184.751,unsup-train_cost = 359.779, test_cer = 0.293, time = 429.764
+Epoch 433/700, sup-train_cost = 184.978,unsup-train_cost = 357.547, test_cer = 0.290, time = 426.827
+Epoch 434/700, sup-train_cost = 184.336,unsup-train_cost = 356.703, test_cer = 0.289, time = 421.856
+Epoch 435/700, sup-train_cost = 185.744,unsup-train_cost = 356.163, test_cer = 0.293, time = 429.199
+Epoch 436/700, sup-train_cost = 184.378,unsup-train_cost = 354.429, test_cer = 0.292, time = 425.237
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 437/700, sup-train_cost = 184.953,unsup-train_cost = 357.783, test_cer = 0.299, time = 422.546
+Epoch 438/700, sup-train_cost = 185.828,unsup-train_cost = 356.797, test_cer = 0.291, time = 424.435
+Epoch 439/700, sup-train_cost = 184.549,unsup-train_cost = 357.424, test_cer = 0.293, time = 434.119
+Epoch 440/700, sup-train_cost = 184.091,unsup-train_cost = 354.415, test_cer = 0.297, time = 424.047
+Epoch 441/700, sup-train_cost = 184.150,unsup-train_cost = 357.429, test_cer = 0.291, time = 429.563
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 442/700, sup-train_cost = 183.676,unsup-train_cost = 355.270, test_cer = 0.293, time = 428.950
+Epoch 443/700, sup-train_cost = 196.591,unsup-train_cost = 358.452, test_cer = 0.298, time = 427.398
+Epoch 444/700, sup-train_cost = 187.193,unsup-train_cost = 351.184, test_cer = 0.290, time = 424.330
+Epoch 445/700, sup-train_cost = 184.933,unsup-train_cost = 353.411, test_cer = 0.292, time = 428.887
+Epoch 446/700, sup-train_cost = 184.781,unsup-train_cost = 351.751, test_cer = 0.300, time = 423.714
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 447/700, sup-train_cost = 184.997,unsup-train_cost = 352.704, test_cer = 0.292, time = 427.020
+Epoch 448/700, sup-train_cost = 187.484,unsup-train_cost = 353.518, test_cer = 0.298, time = 435.629
+Epoch 449/700, sup-train_cost = 182.562,unsup-train_cost = 351.923, test_cer = 0.289, time = 652.250
+Epoch 450/700, sup-train_cost = 183.513,unsup-train_cost = 351.650, test_cer = 0.289, time = 652.916
+Epoch 451/700, sup-train_cost = 182.481,unsup-train_cost = 352.786, test_cer = 0.286, time = 646.611
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 452/700, sup-train_cost = 181.582,unsup-train_cost = 350.329, test_cer = 0.291, time = 649.583
+Epoch 453/700, sup-train_cost = 181.894,unsup-train_cost = 350.316, test_cer = 0.291, time = 656.264
+Epoch 454/700, sup-train_cost = 182.015,unsup-train_cost = 352.418, test_cer = 0.298, time = 651.570
+Epoch 455/700, sup-train_cost = 183.795,unsup-train_cost = 351.572, test_cer = 0.291, time = 569.911
+Epoch 456/700, sup-train_cost = 183.198,unsup-train_cost = 354.861, test_cer = 0.289, time = 445.508
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 457/700, sup-train_cost = 185.483,unsup-train_cost = 350.782, test_cer = 0.293, time = 435.680
+Epoch 458/700, sup-train_cost = 183.243,unsup-train_cost = 350.026, test_cer = 0.289, time = 471.509
+Epoch 459/700, sup-train_cost = 184.399,unsup-train_cost = 350.503, test_cer = 0.299, time = 442.585
+Epoch 460/700, sup-train_cost = 183.031,unsup-train_cost = 349.366, test_cer = 0.292, time = 467.099
+Epoch 461/700, sup-train_cost = 182.013,unsup-train_cost = 353.058, test_cer = 0.293, time = 454.633
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 462/700, sup-train_cost = 182.641,unsup-train_cost = 349.081, test_cer = 0.287, time = 451.148
+Epoch 463/700, sup-train_cost = 183.834,unsup-train_cost = 350.806, test_cer = 0.291, time = 773.109
+Epoch 464/700, sup-train_cost = 183.563,unsup-train_cost = 348.782, test_cer = 0.291, time = 741.570
+Epoch 465/700, sup-train_cost = 182.924,unsup-train_cost = 349.556, test_cer = 0.290, time = 593.070
+Epoch 466/700, sup-train_cost = 184.434,unsup-train_cost = 348.016, test_cer = 0.289, time = 589.067
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 467/700, sup-train_cost = 185.101,unsup-train_cost = 351.045, test_cer = 0.298, time = 508.051
+Epoch 468/700, sup-train_cost = 187.047,unsup-train_cost = 349.299, test_cer = 0.288, time = 449.065
+Epoch 469/700, sup-train_cost = 184.322,unsup-train_cost = 349.999, test_cer = 0.295, time = 448.307
+Epoch 470/700, sup-train_cost = 185.225,unsup-train_cost = 351.532, test_cer = 0.296, time = 452.171
+Epoch 471/700, sup-train_cost = 183.037,unsup-train_cost = 345.679, test_cer = 0.289, time = 449.027
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 472/700, sup-train_cost = 181.341,unsup-train_cost = 344.777, test_cer = 0.293, time = 447.451
+Epoch 473/700, sup-train_cost = 182.772,unsup-train_cost = 350.080, test_cer = 0.296, time = 433.054
+Epoch 474/700, sup-train_cost = 181.762,unsup-train_cost = 347.179, test_cer = 0.292, time = 439.734
+Epoch 475/700, sup-train_cost = 184.515,unsup-train_cost = 348.581, test_cer = 0.288, time = 446.826
+Epoch 476/700, sup-train_cost = 185.393,unsup-train_cost = 349.741, test_cer = 0.286, time = 455.703
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 477/700, sup-train_cost = 181.765,unsup-train_cost = 344.998, test_cer = 0.288, time = 454.283
+Epoch 478/700, sup-train_cost = 181.931,unsup-train_cost = 346.235, test_cer = 0.292, time = 460.386
+Epoch 479/700, sup-train_cost = 184.208,unsup-train_cost = 348.139, test_cer = 0.289, time = 454.515
+Epoch 480/700, sup-train_cost = 184.268,unsup-train_cost = 346.223, test_cer = 0.301, time = 460.341
+Epoch 481/700, sup-train_cost = 183.745,unsup-train_cost = 350.547, test_cer = 0.286, time = 461.934
+Model saved in path: ./model_cvt_same_batch_ssp0/model.ckpt
+Epoch 482/700, sup-train_cost = 180.698,unsup-train_cost = 345.532, test_cer = 0.286, time = 457.036
+Epoch 483/700, sup-train_cost = 181.290,unsup-train_cost = 345.467, test_cer = 0.289, time = 465.412
+Epoch 484/700, sup-train_cost = 183.035,unsup-train_cost = 348.160, test_cer = 0.292, time = 451.722
+Epoch 485/700, sup-train_cost = 183.465,unsup-train_cost = 346.437, test_cer = 0.299, time = 449.340
+Epoch 486/700, sup-train_cost = 180.993,unsup-train_cost = 342.633, test_cer = 0.291, time = 448.187
